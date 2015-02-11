@@ -1,0 +1,18 @@
+rcops={
+    "Tom Couch": "cceatco",
+    "Jo Lampard": "cceajla",
+    "Brian Alston": "ccaabaa",
+    "Owain Kenway": "uccaoke",
+    "Ian Kirker": "uccaiki",
+    "Bruno Silva": "ccaabcs",
+    "David Gregory": "ccaadgr",
+    "Thomas Jones": "ccaathj",
+    "William Hay": "ccaawih",
+    "Francesco Tusa": "cceaftu",
+    "Tony Brown": "ccaatob",
+    "Unknown1": "ccaajcl",
+    "Unknown2": "ccaasdu",
+    "Clare Gryce": "ccaacla",
+    "Unknown4": "zzaapsh",
+    "Luke Sudbery": "ccaalrs",
+    }

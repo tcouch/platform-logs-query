@@ -1,0 +1,457 @@
+DSC_LNG,ORG,LVL,PARENT,PARENT_LVL,FACULTY_CODE,FACULTY_DSC_LNG,ORG_PATH,GRP
+Academic Centre of Medical Education,HAOA,65,HAO,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/HAO/HAOA/,acenme
+Academic Services,LJ,70,RDIV,60,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/LJ/,acadserv
+Access and Admissions,RJ,70,RDIV,60,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RJ/,edliaison
+Activities & Skills,XUI3,80,XUI,70,,,/UCL/PROV/VPA/XU/XUI/XUI3/,unionad
+Admissions,RJB,80,RJ,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RJ/RJB/,colladoff
+Advanced Centre for Biochem Engineering,EGA,70,EG,60,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EG/EGA/,advcenbioe
+Advanced Instrumentation Systems,MA,70,MV,60,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MV/MA/,cais
+Advice & Welfare,XUI1,80,XUI,70,,,/UCL/PROV/VPA/XU/XUI/XUI1/,unionaj
+Alumni Relations & Individual Giving,LKI,70,LK,60,LK,Development and Alumni Relations,/UCL/PROV/VPA/LK/LKI/,alumind
+Application Development,JKA,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKA/,appdev
+Application Services,JK,60,JEISD,40,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/,appserv
+Applied Health Research,G6C,65,G6,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G6/G6C/,appliedhth
+Arts Faculty Office,AF,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AF/,artsfacoff
+Astor College,TCA,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCA/,astor
+Biological Services,VZ,65,HA,60,,,/UCL/PROV/SLIMEDSC/HA/VZ/,bioserv
+Biomaterials & Tissue Eng,IDF,65,ID,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/IDF/,edibiomat
+Biosciences Dissecting Room,FID,70,F1,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/FID/,flsdroom
+Bloomsbury Cafe,XUA1B,90,XUA1,80,,,/UCL/PROV/VPA/XU/XUA/XUA1/XUA1B/,unionbcaf
+Bloomsbury Fitness Centre,XUA2,80,XUA,70,,,/UCL/PROV/VPA/XU/XUA/XUA2/,unionbfc
+Bloomsbury Theatre,VT,60,VPA,30,,,/UCL/PROV/VPA/VT/,bloomsthea
+Brain Repair & Rehabilitation,IND,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/IND/,ionhead
+Building Services,LCBB,80,LCB,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCB/LCBB/,design
+Built Environment Faculty Office,BO,60,BEF,40,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BO/,befacoff
+Business Change Services,JLB,70,JL,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JL/JLB/,buscserv
+CHIME,GJ,65,G6,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G6/GJ/,chime
+CMII,AX,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AX/,intrculstd
+CREST,ELA,70,EL,60,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EL/ELA/,crst
+CRUK Cancer Trials Centre,HDB,65,G4,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G4A/G4/HDB/,ctc
+Campbell House,TCB,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCB/,campbell
+Cancer Institute,G4,50,G4A,45,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G4A/G4/,cancerinst
+Capital Projects,LCB,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCB/,propmgmt
+Capital Projects Management,LCBA,80,LCB,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCB/LCBA/,capital
+Cardiometabolic Phenotyping Group,ICS7,80,ICS,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS7/,cpgroup
+Cardiovascular Imaging Group,ICS5A,80,ICS5,70,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS5/ICS5A/,cardimggp
+Cardiovascular Medicine,G3C,65,G3,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/G3C/,cardsci
+Cardiovascular Prevention & Outcomes,ICS5D,80,ICS5,70,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS5/ICS5D/,cardpo
+Cardiovascular Surgery,ICS4,70,ICS,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS4/,cardsurg
+Careers Service,TA,60,VPA,30,,,/UCL/PROV/VPA/TA/,careers
+Casuals - As & When Payments,XCAS,60,PROV,20,,,/UCL/PROV/XCAS/,casuals
+Cell & Developmental Biology,CDB,65,F1,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/CDB/,celldevbio
+Cen for Adv of Learning & Teaching,JA,60,VPED,30,,,/UCL/PROV/VPED/JA/,calt
+Central Ops Service & Customer Relations,JIA,70,JI,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JI/JIA/,coscs
+Centre for Advanced Spatial Analysis,SC,60,BEF,40,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/SC/,casa
+Centre for Cardiology in the Young,ICS1,70,ICS,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS1/,cency
+Centre for Cardiovascular Genetics,ICS3,70,ICS,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS3/,cencg
+Centre for Languages & Int'l Education,AR,60,VPI,30,,,/UCL/PROV/VPI/AR/,langcntr
+Centre for Preparatory Studies - Astana,ARA,70,AR,60,AR,Centre for Languages & Int'l Education,/UCL/PROV/VPI/AR/ARA/,cpsastana
+Centre for Security & Crime Science,SJX,60,ENG,40,,,/UCL/PROV/SCHSCI/ENG/SJX/,seccrimsci
+Client Platform Services,JIB,70,JI,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JI/JIB/,cpserv
+Clinical & Experimental Epilepsy,INC,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INC/,ionceepi
+Clinical Neuroscience,HF,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/HF/,clinneur
+Clinical Operational Research Unit,MIA,70,MI,60,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MI/MIA/,coru
+Clinical Physiology,G3P,65,G3,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/G3P/,clipsy
+Clinical Research,ID6,65,ID,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/ID6/,clres
+Clinical Trials Unit,G7E,70,G7,65,,,/UCL/PROV/SLIMEDSC/HA/G7/G7E/,clintrl
+"Clinical, Educational & Hlth Psychology",CEHP,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/CEHP/,cliedhtpsy
+CoMPLEX: Mat&Phys in Life Sci & Exp Bio,MB,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MB/,complex
+"Cognitive, Perceptual & Brain Sciences",CPBS,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/CPBS/,cgperbrsci
+Common & Infrastructure Applications,JKB,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKB/,cominfapp
+Communications,LKCC,80,LKC,60,LKC,Communications & Marketing,/UCL/PROV/VPA/LKC/LKCC/,devcomms
+Communications & Marketing,LKC,60,VPA,30,,,/UCL/PROV/VPA/LKC/,corpcomm
+Conference & Room Bookings,LCBC,80,LCH,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCH/LCBC/,property
+Congenital Heart Disease,ICS5,70,ICS,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS5/,chdisease
+"Construction, Maintenance & Fire Safety",LCCD,80,LCF,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCF/LCCD/,const
+Continuing Professional Development,IDK,65,ID,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/IDK/,ediprofdev
+Craniofacial & Development Sciences,ID7,65,ID,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/ID7/,cads
+Creative Media Services,JMB,70,JM,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JM/JMB/,desphserv
+Cruciform Teaching Facilities Unit,HAG,65,FLS,40,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/HAG/,ctfu
+Customer Services,LCCAA,80,LCCA,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCCA/LCCAA/,telecom
+Database,LKOD,80,LKO,70,LK,Development and Alumni Relations,/UCL/PROV/VPA/LK/LKO/LKOD/,devdata
+Database Technology & Architecture,JKC,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKC/,datatecat
+Datacentre Services,JIC,70,JI,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JI/JIC/,dataserv
+Day Nursery,RD,80,LCCA,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCCA/RD/,daynurs
+Dean of Students (Academic),TWA,60,VPED,30,,,/UCL/PROV/VPED/TWA/,dofstudaca
+Dean of Students (Welfare),TWW,60,VPA,30,,,/UCL/PROV/VPA/TWW/,dofstudwel
+Departmental Administrative Applications,JKD,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKD/,deptaa
+Dept of Anthropology,SB,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SB/,anthrop
+Dept of Biochemical Engineering,EG,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EG/,biochemeng
+Dept of Cancer,IC2,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC2/,ichcancer
+Dept of Cardiorespiratory Sciences,IC3,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC3/,ichcardsci
+Dept of Chemical Engineering,EB,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EB/,chemeng
+Dept of Chemistry,ME,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/ME/,chemistry
+"Dept of Civil, Environ & Geomatic Eng",EC,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EC/,civeng
+Dept of Computer Science,EL,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EL/,compsci
+Dept of Dutch,AJ,70,AA,50,,,/UCL/PROV/SARSOSC/ARTS/AA/AJ/,dutch
+Dept of Earth Sciences,MF,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MF/,earthsci
+Dept of Economics,SE,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SE/,economics
+Dept of Electronic & Electrical Eng,EE,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EE/,eeeng
+Dept of English Lang & Literature,AG,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AG/,english
+Dept of French,AI,70,AA,50,,,/UCL/PROV/SARSOSC/ARTS/AA/AI/,french
+Dept of Gen & Adolescent Paediatrics,IC8,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC8/,ichgstauto
+"Dept of Genes, Dev & Disease",IC4,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC4/,ichgenes
+Dept of Geography,SK,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SK/,geography
+Dept of German,AL,70,AA,50,,,/UCL/PROV/SARSOSC/ARTS/AA/AL/,german
+Dept of Greek & Latin,AM,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AM/,greek
+Dept of Hebrew & Jewish Studies,AN,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AN/,jewishstud
+Dept of History,SO,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SO/,history
+Dept of History of Art,SP,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SP/,historyart
+Dept of Infection & Immunity,IC5,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC5/,ichii
+Dept of Information Studies,AS,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AS/,slais
+Dept of Italian,AQ,70,AA,50,,,/UCL/PROV/SARSOSC/ARTS/AA/AQ/,italian
+Dept of Management Science & Innovation,EM,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EM/,mgmntsci
+Dept of Mathematics,MI,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MI/,maths
+Dept of Mechanical Engineering,ED,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/ED/,mecheng
+Dept of Medical Phys & Bioengineering,EA,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EA/,medphys
+Dept of Neurosciences & Mental Health,IC6,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/,ichnmhlth
+Dept of Nutritional & Surgical Science,IC1,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC1/,ichbnsci
+Dept of Philosophy,AT,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AT/,philosophy
+Dept of Physics & Astronomy,MJ,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MJ/,physast
+Dept of Political Science,ST,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/ST/,polsci
+Dept of Population Health Sciences,IC7,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC7/,ichpop
+Dept of Scandinavian Studies,AY,70,AA,50,,,/UCL/PROV/SARSOSC/ARTS/AA/AY/,scanstuds
+Dept of Science & Technology Studies,MG,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MG/,scitech
+Dept of Security and Crime Science,SJD,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/SJD/,jlldninst
+Dept of Space & Climate Physics,MV,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MV/,mssl
+Dept of Spanish & Latin American Studies,AE,70,AA,50,,,/UCL/PROV/SARSOSC/ARTS/AA/AE/,spanish
+Dept of Statistical Science,MN,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MN/,statsci
+Development Planning Unit,BD,60,BEF,40,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BD/,dpu
+Development and Alumni Relations,LK,60,VPA,30,,,/UCL/PROV/VPA/LK/,dcco
+Developmental Science,DSC,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/DSC/,devsci
+Directors Office,LKD,70,LK,60,LK,Development and Alumni Relations,/UCL/PROV/VPA/LK/LKD/,devdiroff
+Div of Biosciences,F1,50,FLS,40,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/,biosci
+Div of Infection & Immunity,G1,50,GHCSCI,40,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G1/,ii
+Div of Medicine,G3,50,GHCSCI,40,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/,med
+Div of Psychology & Language Sciences,F2,50,FBRS,40,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/,psylangsci
+Div of Surgery & Interventional Sci,G2,50,GHCSCI,40,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G2/,g2
+E-Learning Environments,JMA,70,JM,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JM/JMA/,elearnenv
+Eastman Dental Institute,ID,50,GHCSCI,40,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/,edi
+Education & Cardiovascular Morphology,ICS5C,80,ICS5,70,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS5/ICS5C/,educm
+Engineering & Maintenance,LCCB,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCCB/,bldgmain
+Engineering Science Faculty Office,EO,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EO/,engfacoff
+Enterprise Administrative Applications,JKE,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKE/,entpriseaa
+Environmental Sustainability,LCJ,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCJ/,environsus
+Epidemiology & Public Health,GQ,65,G6,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G6/GQ/,epid
+Estates Division,LC,60,VPA,30,,,/UCL/PROV/VPA/LC/,efd
+Estates IT,JNA,70,JN,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JN/JNA/,estateit
+Estates Strategy & Space,LCH,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCH/,estss
+Estates Support Services,LCA,80,LCK,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCK/LCA/,estadmin
+European Research & Development,LDE,80,LDD,70,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDD/LDE/,eurord
+European Social & Political Studies,AU,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AU/,esps
+Events,XUA4,80,XUA,70,,,/UCL/PROV/VPA/XU/XUA/XUA4/,unionev
+Events,LKOE,80,LKC,60,LKC,Communications & Marketing,/UCL/PROV/VPA/LKC/LKOE/,devevnt
+Ex-Gratia Pensioners,XPEN,60,UCL,10,,,/UCL/XPEN/,pensioners
+Examinations,RKB,80,RK,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RK/RKB/,exams
+External Organisations affiliated to UCL,UCLEXT,10, , ,,,/UCLEXT/,uclext
+Facilities Services,LCCA,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCCA/,facserv
+Faculty of Arts & Humanities,ARTS,40,SARSOSC,35,,,/UCL/PROV/SARSOSC/ARTS/,arts
+Faculty of Brain Sciences,FBRS,40,SLIMEDSC,35,,,/UCL/PROV/SLIMEDSC/FBRS/,fbrainsci
+Faculty of Engineering Science,ENG,40,SCHSCI,35,,,/UCL/PROV/SCHSCI/ENG/,engscifac
+Faculty of Laws,DLAWS,40,SARSOSC,35,,,/UCL/PROV/SARSOSC/DLAWS/,lawsfac
+Faculty of Life Sciences,FLS,40,SLIMEDSC,35,,,/UCL/PROV/SLIMEDSC/FLS/,faclifesci
+Faculty of Maths & Physical Sciences,MPS,40,SCHSCI,35,,,/UCL/PROV/SCHSCI/MPS/,maps
+Faculty of Medical Sciences,GHCSCI,40,SLIMEDSC,35,,,/UCL/PROV/SLIMEDSC/GHCSCI/,biomedsci
+Faculty of Population Health Sciences,FPHS,40,SLIMEDSC,35,,,/UCL/PROV/SLIMEDSC/FPHS/,fphlthsci
+Faculty of Social & Historical Sciences,SHS,40,SARSOSC,35,,,/UCL/PROV/SARSOSC/SHS/,shs
+Faculty of the Built Environment,BEF,40,SCHSCI,35,,,/UCL/PROV/SCHSCI/BEF/,facbe
+Finance & Business Affairs,LD,60,VPA,30,,,/UCL/PROV/VPA/LD/,findiv
+Financial Accounting,LDA,80,LDL,70,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDL/LDA/,finacc
+Financial Analysis & Reporting,LDC,80,LDL,70,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDL/LDC/,pma
+Financial Control & Analysis,LDL,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDL/,finconana
+Financial Information Systems,JNB,70,JN,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JN/JNB/,fininfosys
+Food & Beverage,XUA1,80,XUA,70,,,/UCL/PROV/VPA/XU/XUA/XUA1/,unionfab
+Gatsby Computational Neuroscience Unit,FA,60,FLS,40,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/FA/,gatsby
+"Genetics, Evolution & Environment",GEE,65,F1,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/GEE/,genevoenv
+George Farha Cafe Bar,XUA1C,90,XUA1,80,,,/UCL/PROV/VPA/XU/XUA/XUA1/XUA1C/,unionrcaf
+Goldsmid House,TCC,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCC/,goldsmid
+Gordon Street Bar,XUA1E,90,XUA1,80,,,/UCL/PROV/VPA/XU/XUA/XUA1/XUA1E/,uniongbar
+Gordon's Cafe,XUA1A,90,XUA1,80,,,/UCL/PROV/VPA/XU/XUA/XUA1/XUA1A/,uniongcaf
+Graduate School,PH,60,VPA,30,,,/UCL/PROV/VPA/PH/,gradschool
+HR Administrative Process Team,LHDC,80,LHC,70,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHC/LHDC/,hradpr
+Hatter Cardiovascular Institute,ICS2,70,ICS,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS2/,hcinst
+Hawkridge,TCH,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCH/,hawk
+Human Resources Consultancy,LHB,70,LH,60,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHB/,hrcons
+Human Resources Director's Office,LHA,70,LH,60,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHA/,hrdiroff
+Human Resources Division,LH,60,VPA,30,,,/UCL/PROV/VPA/LH/,hrdiv
+Human Resources Information Office,LHDB,80,LHC,70,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHC/LHDB/,hrio
+Human Resources Operations Team,LHDA,80,LHE,70,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHE/LHDA/,hrops
+Human Resources Policy and Planning,LHC,70,LH,60,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHC/,hrpolicy
+ICH - Audiological Medicine,IC6J,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6J/,ichaudio
+ICH - Behavioural & Brain Sciences,IC6A,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6A/,ichbehav
+ICH - Cardiac Unit,IC3A,70,IC3,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC3/IC3A/,ichcardiac
+ICH - Centre for Nursing & Allied Health,IC3B,70,IC8,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC8/IC3B/,ichnurah
+ICH - Clinical & Molecular Genetics,IC4A,70,IC4,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC4/IC4A/,ichmolgen
+ICH - Ctr for Children's Palliative Care,IC8B,70,IC8,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC8/IC8B/,ccpc
+ICH - Ctr for International Health & Dev,IC7A,70,IC7,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC7/IC7A/,ichichunit
+ICH - Developmental Biology Unit,IC6B,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6B/,ichdevbio
+ICH - Developmental Cognitive Neurosci,IC6C,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6C/,ichdevcogn
+ICH - Directors Office,ICD,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICD/,ichdiroff
+ICH - Dubowitz Neuromuscular Centre,IC6K,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6K/,ichdbnc
+ICH - Estates & Facilities Department,ICGB,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGB/,ichefdep
+ICH - Events,ICGA,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGA/,ichevents
+ICH - Finance,ICFA,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICFA/,ichfin
+ICH - Gastroenterology & Autoimmunity,IC5E,70,IC5,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC5/IC5E/,ichga
+ICH - Gen & Adolescent Paediatrics Unit,IC8A,70,IC8,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC8/IC8A/,ichgenapu
+ICH - General Administration,ICG,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/,ichgenadmi
+ICH - Human Resources,ICGC,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGC/,ichhr
+ICH - Imaging and Biophysics Unit,IC6I,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6I/,ichradio
+ICH - Immunobiology Unit,IC5A,70,IC5,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC5/IC5A/,ichimmunit
+ICH - Infectious Diseases & Microbiology,IC5B,70,IC5,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC5/IC5B/,ichinfdis
+ICH - Information Systems Unit,ICGE,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGE/,ichisu
+ICH - Laboratory Management,ICGH,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGH/,ichlabmgt
+ICH - Library,ICGF,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGF/,ichlibrary
+ICH - Medical Illustration,ICGG,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGG/,ichmedill
+ICH - Medical Molecular Biology Unit,IC4B,70,IC4,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC4/IC4B/,ichmolbio
+ICH - Molecular Haem & Cancer Biology,IC2A,70,IC2,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC2/IC2A/,ichmhcb
+ICH - Molecular Immunology Unit,IC5C,70,IC5,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC5/IC5C/,ichmolimm
+ICH - Molecular Medicine Unit,IC4D,70,IC4,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC4/IC4D/,ichmolmed
+ICH - Nephro-Urology Unit,IC4E,70,IC4,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC4/IC4E/,ichnuunit
+ICH - Neural Development Unit,IC6D,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6D/,ichneurdev
+ICH - Neural Plasticity Unit,IC6E,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6E/,ichneurpla
+ICH - Neurosciences Unit,IC6G,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6G/,ichneursci
+ICH - Nutrition Unit,IC1B,70,IC1,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC1/IC1B/,ichnutn
+ICH - Paediatric Epidemiology Unit,IC7C,70,IC7,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC7/IC7C/,ichpaeduni
+ICH - Portex Anaesthesia,IC3D,70,IC3,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC3/IC3D/,ichportex
+ICH - Research & Development Department,ICGD,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGD/,ichrd
+ICH - Research Degrees,ICGI,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGI/,ichresdegr
+ICH - Research Grants,ICFB,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICFB/,ichresgran
+ICH - Rheumatology Unit,IC5D,70,IC5,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC5/IC5D/,ichrheum
+ICH - Surgery Unit,IC1C,70,IC1,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC1/IC1C/,ichsurgery
+ICH - Taught Courses,ICGJ,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGJ/,ichtaughtc
+ICH - Visual Sciences Unit,IC6H,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6H/,ichvissci
+ISD Administrative Services,JLA,70,JL,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JL/JLA/,adminserv
+IT Change & Project Delivery Services,JL,60,JEISD,40,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JL/,itcpdserv
+IT For SLMS Infrastructure,JEB,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JEB/,itslmsin
+IT For SLMS Medical Sciences,JEG,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JEG/,itslmsms
+IT For SLMS Research and Education,JEC,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JEC/,itslmsre
+IT Portfolio Management Services,JLC,70,JL,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JL/JLC/,itpmgtserv
+IT Quality Management Services,JLD,70,JL,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JL/JLD/,itqmgtserv
+IT for SLMS,JE,60,JEISD,40,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/,itslms
+IT for SLMS Brain Sciences,JEE,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JEE/,itslmsbs
+IT for SLMS Director's Office,JEA,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JEA/,itslmsdo
+IT for SLMS Life Sciences,JEH,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JEH/,itslmsls
+IT for SLMS Medical Illustration,JED,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JED/,itslmsmi
+IT for SLMS Population Health Sciences,JEF,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JEF/,itslmsph
+IT for Support Services,JN,60,JEISD,40,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JN/,itforsserv
+Ifor Evans / Max Rayne,TCD,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCD/,iformax
+Imaging Neuroscience,INE,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INE/,ionimage
+Infection & Population Health,G6A,65,G6,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G6/G6A/,inph
+Inflammation,G3I,65,G3,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/G3I/,infla
+Information Security,JID,70,JI,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JI/JID/,infosec
+Information Services Division,JEISD,40,VPA,30,,,/UCL/PROV/VPA/JEISD/,isd
+Information and Data Services,RP,70,RDIV,60,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RP/,mgtinfo
+Inst Ophthalmology - Cell Biology,IOD,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOD/,ioocell
+Inst Ophthalmology - EM Unit/Imaging SRF,IOP,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOP/,emuisrf
+Inst Ophthalmology - Genetics,IOE,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOE/,ioomolge
+Inst Ophthalmology - Ocular Biology,IOT,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOT/,ocbioth
+Inst Ophthalmology - Scientific Workshop,IOU,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOU/,sciwork
+Inst Ophthalmology - Visual Neuroscience,IOJ,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOJ/,ioovissc
+Inst for Women's Health,G5,50,FPHS,40,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G5/,wch
+Inst of Clinical Trials & Methodology,G10,50,FPHS,40,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G10/,instctm
+Inst of Orthopaedics & Musculosk Sci,HQ,65,G2,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G2/HQ/,ioorth
+Institute Estates,IOQ,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOQ/,estates
+Institute Library Services,IOS,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOS/,libserv
+Institute for Global Health,IGH,50,FPHS,40,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IGH/,instgb
+Institute for Risk & Disaster Reduction,MFA,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MFA/,irdr
+Institute of Archaeology,SW,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SW/,archaeol
+Institute of Biomedical Engineering,EN,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EN/,insbioeng
+Institute of Cardiovascular Science,ICS,50,FPHS,40,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/,ics
+Institute of Child Health,IC,50,FPHS,40,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/,ich
+Institute of Cognitive Neuroscience,FGB,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/FGB/,cogneuro
+Institute of Epidemiology & Health,G6,50,FPHS,40,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G6/,pophealth
+Institute of Neurology,IN,50,FBRS,40,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/,ion
+Institute of Ophthalmology,IO,50,FBRS,40,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/,ioophth
+"Institute of Sport, Exercise and Health",HT,65,G2,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G2/HT/,ioseh
+Institute of the Americas,SM,50,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SM/,instameri
+Intercollegiate Department,ICOLL,60,UCLEXT,10,,,/UCLEXT/ICOLL/,intercoll
+Internal Audit Services,LI,60,VPA,30,,,/UCL/PROV/VPA/LI/,intaudit
+Internal Medicine,G3M,65,G3,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/G3M/,intmed
+International Office,RJC,80,LKC,60,LKC,Communications & Marketing,/UCL/PROV/VPA/LKC/RJC/,intoff
+IoN - Audio-Visual Centre,INAC,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INAC/,ionavcntr
+IoN - Neuroinflammation,INI,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INI/,ioninflam
+IoN Administration,INA,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INA/,ionadmin
+IoN Computer Unit,INAD,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INAD/,ioncomp
+IoN Library,INAA,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INAA/,ionlibrary
+James Lighthill House,TCI,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCI/,lighthill
+John Dodgson House,TCJ,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCJ/,dodgson
+Knowledge Transfer,VPEK,40,VPE,30,,,/UCL/PROV/VPE/VPEK/,knowtran
+Langton Close,TCE,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCE/,langton
+Language & Communication,LCM,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/LCM/,langcom
+Learning & Teaching Applications,JKF,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKF/,learnta
+Learning Technology & Media Services,JM,60,JEISD,40,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JM/,ltmserv
+Legal Services,LDJ,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDJ/,legalser
+Library Services,VL,60,VPA,30,,,/UCL/PROV/VPA/VL/,libraryser
+Linguistics,LGI,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/LGI/,linguistic
+London Centre for Nanotechnology,MW,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MW/,nanotech
+MAPS Faculty Office,MO,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MO/,mapsfacoff
+MRC Clinical Trials Unit Support Team,G9A,70,G9,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G10/G9/G9A/,ctuadmin
+MRC Clinical Trials Unit at UCL,G9,65,G10,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G10/G9/,mrcctu
+MRC Unit for Lifelong Health & Ageing,G6B,65,G6,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G6/G6B/,mrclha
+MRC/UCL Lab for Molecular Cell Biology,FK,50,FLS,40,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/FK/,mrclmcb
+Mail Services,LCCAC,80,LCCA,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCCA/LCCAC/,mail
+Main & Science Libraries,VLL,70,VL,60,VL,Library Services,/UCL/PROV/VPA/VL/VLL/,mscilib
+Maintenance & Operations,LCCC,80,LCCA,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCCA/LCCC/,seem
+Major Projects,LKM,70,LK,60,LK,Development and Alumni Relations,/UCL/PROV/VPA/LK/LKM/,majproj
+Maternal & Fetal Medicine,GF,65,G5,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G5/GF/,mfmed
+"MaxFac, Diagnostic, Medical & Surg Sci",IDT,65,ID,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/IDT/,edioms
+Media Relations,LKCM,80,LKC,60,LKC,Communications & Marketing,/UCL/PROV/VPA/LKC/LKCM/,devcomm
+Medical Student Administration,HAH,65,HAO,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/HAO/HAH/,msah
+Mental Health Sciences Unit,GR,60,FBRS,40,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/GR/,mhs
+Metabolism & Experimental Therapeutics,G3T,65,G3,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/G3T/,metexthp
+Microbial Diseases,IDR,65,ID,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/IDR/,edimicrob
+Molecular Neuroscience,INF,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INF/,ionmolneur
+Motor Neuroscience & Movement Disorders,ING,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/ING/,ionmotor
+Museums and Public Engagement,VC,60,VPA,30,,,/UCL/PROV/VPA/VC/,colcollect
+NICOR,ICS6,70,ICS,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS6/,nistcor
+Neonatology,GN,65,G5,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G5/GN/,neon
+Network Services,JIE,70,JI,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JI/JIE/,netserv
+Neurodegenerative Diseases,INH,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INH/,iondegen
+"Neuroscience, Physiology & Pharmacology",NPP,65,F1,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/NPP/,neurphypha
+Occupational Health Service,LHF,70,LH,60,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHF/,ohhr
+Office for International Affairs,LDK,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDK/,internat
+Office of the President & Provost,PROV,20,UCL,10,,,/UCL/PROV/,provost
+Operations,LKO,70,LK,60,LK,Development and Alumni Relations,/UCL/PROV/VPA/LK/LKO/,devops
+Organisational Development,LHG,70,LH,60,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHG/,osdt
+Payroll & Pension Services,LHE,70,LH,60,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHE/,hrpaps
+Pharmaceutical & Biological Chemistry,PSB,65,PS,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/PS/PSB/,phbiochem
+Pharmaceutics,PSA,65,PS,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/PS/PSA/,pharma
+Pharmacology,PSC,65,PS,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/PS/PSC/,phmcology
+Platform Technologies,G7C,70,G7,65,,,/UCL/PROV/SLIMEDSC/HA/G7/G7C/,acadac
+PolyMASC plc,XBA,70,XB,60,,,/UCL/PROV/VPE/VPEK/XB/XBA/,polymasc
+Portico Services,RPC,80,RP,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RP/RPC/,portser
+Practice & Policy,PSD,65,PS,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/PS/PSD/,practpol
+Primary Care & Population Health,GZ,65,G6,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G6/GZ/,pcps
+Print Room Cafe/Bar,XUA1F,90,XUA1,80,,,/UCL/PROV/VPA/XU/XUA/XUA1/XUA1F/,unionprcaf
+Pro-Provosts,PRO-P,40,PROV,20,,,/UCL/PROV/PRO-P/,proprovs
+Procurement Services,LCD,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LCD/,procure
+Professional Services,VPA,30,PROV,20,,,/UCL/PROV/VPA/,vpops
+Professional Services Finance,LDI,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDI/,cssfin
+"Project Delivery Services (L& T, & Supp)",JLE,70,JL,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JL/JLE/,pdservlts
+Project Delivery Services(Research & In),JLF,70,JL,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JL/JLF/,pdservri
+Property,LCI,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCI/,prop
+Publications and Marketing Services,RJE,80,LKC,60,LKC,Communications & Marketing,/UCL/PROV/VPA/LKC/RJE/,publics
+R & D Office,G7A,70,G7,65,,,/UCL/PROV/SLIMEDSC/HA/G7/G7A/,rd
+RLW Institute of Neurological Sciences,HM,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/HM/,rlwinst
+Ramsay Hall,TCF,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCF/,ramsay
+Registrar's Office,RB,70,RDIV,60,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RB/,regoff
+Registry Web and IT Support,RPA,80,RP,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RP/RPA/,sysserv
+Representation & Campaigns,XUI2,80,XUI,70,,,/UCL/PROV/VPA/XU/XUI/XUI2/,unionds
+Reproductive Medicine,GG,65,G5,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G5/GG/,rmed
+Research,LKOS,80,LKO,70,LK,Development and Alumni Relations,/UCL/PROV/VPA/LK/LKO/LKOS/,devrsch
+Research Application Services,JJC,70,JJ,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JJ/JJC/,resapserv
+Research Applications - Operations,JKH,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKH/,resapops
+Research Applications and Services,JKG,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKG/,resapp
+Research Comp & Facilitating Services,JJA,70,JJ,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JJ/JJA/,rescfserv
+Research Coordinators,G7B,70,G7,65,,,/UCL/PROV/SLIMEDSC/HA/G7/G7B/,rescor
+Research Data Services,JJB,70,JJ,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JJ/JJB/,redatserv
+Research Department of Cancer Biology,CB,65,G4,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G4A/G4/CB/,cbio
+Research Department of General Surgery,GS,65,G2,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G2/GS/,surgery
+Research Department of Haematology,GK,65,G4,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G4A/G4/GK/,haem
+Research Department of Immunology,GC,65,G1,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G1/GC/,immunology
+Research Department of Infection,GB,65,G1,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G1/GB/,infection
+Research Department of Oncology,HD,65,G4,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G4A/G4/HD/,oncology
+Research Department of Open Learning,HAOB,65,HAO,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/HAO/HAOB/,rdofol
+Research Department of Pathology,GA,65,G4,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G4A/G4/GA/,pathology
+Research Department of Urology,RU,65,G2,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G2/RU/,rdurology
+Research IT Services,JJ,60,JEISD,40,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JJ/,resitserv
+Research Services,LDD,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDD/,resserv
+Resources,LKOB,80,LKO,70,LK,Development and Alumni Relations,/UCL/PROV/VPA/LK/LKO/LKOB/,devres
+Restorative Dental Sciences,ID8,65,ID,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/ID8/,rds
+Royal Free Facilities & General Support,HAL,65,HA,60,,,/UCL/PROV/SLIMEDSC/HA/HAL/,hamfacgens
+SELCS,AA,50,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AA/,sofeucs
+SHS Faculty Office,SA,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SA/,shsfacoff
+SIW,SIW,10, , ,,,/SIW/,siw
+SLMS Finance,HAA,65,HA,60,,,/UCL/PROV/SLIMEDSC/HA/HAA/,msaacc
+SLMS Planning and Performance Unit,HA,60,SLIMEDSC,35,,,/UCL/PROV/SLIMEDSC/HA/,medschad
+SLMS Research Support Centre,G7,65,HA,60,,,/UCL/PROV/SLIMEDSC/HA/G7/,divofrshst
+STEaPP,EP,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EP/,steapp
+Safety Services,LCF,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCF/,safety
+Satellite Estates Services,LCK,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCK/,satestserv
+Sch of Slavonic & East European Studies,VS,60,SARSOSC,35,,,/UCL/PROV/SARSOSC/VS/,ssees
+Schafer House,TCG,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCG/,schafer
+School Finance - Arts & Social Sciences,LDF,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDF/,slashfin
+School Finance - BEAMS,LDG,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDG/,beamsfin
+School Finance - Life & Medical Sciences,LDH,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDH/,slmsfin
+School of Arts & Social Sciences,SARSOSC,35,PROV,20,,,/UCL/PROV/SARSOSC/,scharsosci
+"School of European Langs, Admin Office",AB,70,AA,50,,,/UCL/PROV/SARSOSC/ARTS/AA/AB/,sofelao
+School of Life & Medical Sciences,SLIMEDSC,35,PROV,20,,,/UCL/PROV/SLIMEDSC/,schlimedsc
+School of Sciences,SCHSCI,35,PROV,20,,,/UCL/PROV/SCHSCI/,schsci
+Security,LCE,80,LCCA,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCCA/LCE/,security
+Shenley Pavilion,XUH2,80,XUH,70,,,/UCL/PROV/VPA/XU/XUH/XUH2/,unionshep
+Shenley Sports Grounds,XUH1,80,XUH,70,,,/UCL/PROV/VPA/XU/XUH/XUH1/,unionsheg
+Social & Economic Res on the Global Env,SEA,70,SE,60,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SE/SEA/,cserge
+Soft Services,LCCAD,80,LCCA,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCCA/LCCAD/,cleaning
+Somers Town Community Sports Centre,XUH3,80,XUH,70,,,/UCL/PROV/VPA/XU/XUH/XUH3/,unionsom
+"Speech, Hearing & Phonetic Sciences",SHPS,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/SHPS/,sphrphosci
+Stanmore Implants Worldwide,XS,60,VPEK,40,,,/UCL/PROV/VPE/VPEK/XS/,siw
+Structural & Molecular Biology,SMB,65,F1,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/SMB/,strcmolbio
+Student Accommodation,TC,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/TC/,residence
+Student Administration,RK,70,RDIV,60,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RK/,studtadmin
+Student Advisory and Events Services,RKC,80,RS,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RS/RKC/,gradceres
+Student Data Services,RPB,80,RP,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RP/RPB/,mgmtinfo
+Student Disability Services,RI,80,RS,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RS/RI/,disctr
+Student Funding,RNB,80,RK,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RK/RNB/,finsupport
+Student Psychological Services,TB,80,RS,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RS/TB/,counsell
+Student Records and Research Degrees,RKD,80,RK,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RK/RKD/,studrec
+Student Support and Wellbeing,RS,70,RDIV,60,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RS/,studsup
+Student and Registry Services,RDIV,60,VPA,30,,,/UCL/PROV/VPA/RDIV/,registry
+Survey of English Usage,AGU,70,AG,60,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AG/AGU/,engusage
+Technology Services,JI,60,JEISD,40,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JI/,techserv
+The Bartlett Sch of Const & Proj Mgmnt,BC,60,BS,50,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BS/BC/,cpmgmnt
+The Bartlett School,BS,50,BEF,40,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BS/,bartlett
+The Bartlett School of Architecture,BA,60,BS,50,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BS/BA/,architect
+The Bartlett School of Graduate Studies,BG,60,BS,50,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BS/BG/,gradstud
+The Bartlett School of Planning,BP,60,BS,50,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BS/BP/,planning
+The Bentham Project,SH,60,DLAWS,40,DLAWS,Faculty of Laws,/UCL/PROV/SARSOSC/DLAWS/SH/,bentham
+The Ear Institute,HP,50,FBRS,40,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/HP/,earinst
+The Huntley,XUA1D,90,XUA1,80,,,/UCL/PROV/VPA/XU/XUA/XUA1/XUA1D/,unionhbar
+The Royal Institution of Great Britain,RIGB,10, , ,,,/RIGB/,rigb
+The Sainsbury Wellcome Centre,SWC,50,FLS,40,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/SWC/,sainswc
+The Slade School of Fine Art,AH,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AH/,theslade
+Trade Union Office,TRAD,70,UCLEXT,10,,,/UCLEXT/TRAD/,trad
+Translation Studies,AAU,70,AA,50,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AA/AAU/,transtud
+Translational Research Office,G7D,70,G7,65,,,/UCL/PROV/SLIMEDSC/HA/G7/G7D/,transroff
+UCL - Qatar,QA,60,VPI,30,,,/UCL/PROV/VPI/QA/,uclq
+UCL Advances - Ctr for Entrepreneurship,EK,60,VPE,30,,,/UCL/PROV/VPE/EK/,ucladvan
+UCL Australia,ENGAU,60,VPI,30,,,/UCL/PROV/VPI/ENGAU/,uclaus
+UCL BioMedica plc,XB,60,VPEK,40,,,/UCL/PROV/VPE/VPEK/XB/,biomedica
+UCL Business PLC,VB,60,VPEK,40,,,/UCL/PROV/VPE/VPEK/VB/,uclbus
+UCL Centre for the History of Medicine,FBB,65,F1,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/FBB/,histmed
+UCL Energy Institute,BGA,60,BEF,40,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BGA/,energinst
+UCL Environment Institute,EI,62,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/EI/,envinst
+UCL Genetics Institute,UGI,70,GEE,65,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/GEE/UGI/,uclgeninst
+UCL Interaction Centre,FGC,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/FGC/,uclic
+UCL Medical School,HAO,50,GHCSCI,40,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/HAO/,medicaled
+UCL Partners,UCLP,70,UCLEXT,10,,,/UCLEXT/UCLP/,uclp
+UCL School of Pharmacy,PS,50,FLS,40,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/PS/,schofphar
+UCL Union - Sport & Recreation,XUH,70,XU,60,,,/UCL/PROV/VPA/XU/XUH/,unionsport
+UCL-NU School of Engineering Partnership,NU,60,VPI,30,,,/UCL/PROV/VPI/NU/,uclnu
+UCLU,XU,60,VPA,30,,,/UCL/PROV/VPA/XU/,uclunion
+UCLU - Administration & HR,XUD,70,XU,60,,,/UCL/PROV/VPA/XU/XUD/,uniongen
+UCLU - Commercial Services,XUA,70,XU,60,,,/UCL/PROV/VPA/XU/XUA/,unionbars
+UCLU - Finance,XUC,70,XU,60,,,/UCL/PROV/VPA/XU/XUC/,unionfin
+UCLU - Marketing & Communications,XUF,70,XU,60,,,/UCL/PROV/VPA/XU/XUF/,unionprom
+UCLU - Membership Services,XUI,70,XU,60,,,/UCL/PROV/VPA/XU/XUI/,unionadvic
+UCLU - Sabbatical,XUG,70,XU,60,,,/UCL/PROV/VPA/XU/XUG/,unionsab
+Union Shops,XUA3,80,XUA,70,,,/UCL/PROV/VPA/XU/XUA/XUA3/,unionshp
+University College London,UCL,10, , ,,,/UCL/,ucl
+UrbanBuzz,BE,70,BEF,40,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BE/,urbanb
+VP: Education,VPED,30,PROV,20,,,/UCL/PROV/VPED/,vpedu
+VP: Enterprise,VPE,30,PROV,20,,,/UCL/PROV/VPE/,vpent
+VP: Health,VPH,30,PROV,20,,,/UCL/PROV/VPH/,vphlth
+VP: International,VPI,30,PROV,20,,,/UCL/PROV/VPI/,vpint
+VP: Research,VPR,30,PROV,20,,,/UCL/PROV/VPR/,vpres
+VP: Special Projects,VPS,30,PROV,20,,,/UCL/PROV/VPS/,vpspr
+Vascular Physiology,ICS5B,80,ICS5,70,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS5/ICS5B/,vascphys
+Vertical Module Tutors (VM),HAU,65,HAO,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/HAO/HAU/,pdst
+Volunteering Services Unit,XUI4,80,XUI,70,,,/UCL/PROV/VPA/XU/XUI/XUI4/,unionvsu
+WP and UK Undergraduate Recruitment,RJD,80,RJ,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RJ/RJD/,schsliais
+Web & Mobile Services,JMC,70,JM,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JM/JMC/,wmserv
+Whittington Facilities & General Support,HAP,65,HAO,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/HAO/HAP/,arfacgens
+Wilton Plaza Goldsmid House,TCK,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCK/,wpghouse
+Wolfson Inst & Cancer Inst Admin,G4A,45,GHCSCI,40,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G4A/,wici
+Wolfson Inst for Biomedical Research,IW,65,G3,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/IW/,wibr
+Women's Cancer,GT,65,G5,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G5/GT/,gynoncol
+Work Permit Applicants,XY,60,UCLEXT,10,,,/UCLEXT/XY/,workpermit
+lnstitute of Liver and Digestive Health,G3L,65,G3,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/G3L/,instofldh
