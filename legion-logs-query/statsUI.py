@@ -1,4 +1,4 @@
-import stats.statsFactory as sf
+import statsFactory as sf
 import csv, sys
 import datetime as dt
 

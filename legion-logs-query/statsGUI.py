@@ -1,7 +1,7 @@
 import Tkinter
 import tkMessageBox
 import datetime as dt
-import stats.statsFactory as sf
+import statsFactory as sf
 
 class MainMenu(Tkinter.Tk):
     def __init__(self,parent):
