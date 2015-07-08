@@ -197,8 +197,8 @@ def node2hostnames(node):
 
 if __name__=="__main__":
 
-    startDate = dt.datetime(2015,1,1)
-    endDate = dt.datetime(2015,2,1)
+    startDate = dt.datetime(2015,6,1)
+    endDate = dt.datetime(2015,7,1)
 
     kpis = KPIs(startDate,endDate)
     activeUsers = kpis.getActiveUserStats()

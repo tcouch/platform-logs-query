@@ -1,19 +1,11 @@
 from logs import LegionLogs as logs
 from rcops import rcops
+from nodeDict import nodeDict
 import abc
 import datetime as dt
 import math
 import sys
 
-
-nodeDict = {}
-nodeDict['W'] = 'node-[a-j]'
-nodeDict['X'] = 'node-[k-p]'
-nodeDict['Y'] = 'node-[0-1]'
-nodeDict['Z'] = 'node-2'
-nodeDict['V'] = 'node-3'
-nodeDict['U'] = 'node-[5rst]'
-nodeDict['T'] = 'node-6'
 
 class Statistic(object):
     __metaclass__ = abc.ABCMeta
