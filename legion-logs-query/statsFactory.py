@@ -1,6 +1,7 @@
-from logs import LegionLogs as logs
+from logsConnector import logsConnection as logs
 from rcops import rcops
 from nodeDict import nodeDict
+from platform2database import platform2database
 import abc
 import datetime as dt
 import math
@@ -27,11 +28,17 @@ class Statistic(object):
         else:
             self.nodeClass = "all"
         
+        #default to latest legion logs database if none specified
+        if "db" in kwargs:
+            self.db = kwargs["db"]
+        else:
+            self.db = "sgelogs2"
+        
         #convert dates to unix timestamp for database queries
         self.startEpoch = int((startDate - dt.datetime(1970,1,1)).total_seconds())
         self.endEpoch = int((endDate - dt.datetime(1970,1,1)).total_seconds())
 
-        self.db = logs()
+        self.dbConnection = logs()
 
         self.constructQuery()
         
@@ -44,56 +51,55 @@ class Statistic(object):
         """
 
     def getResult(self):
-        return self.db.query(self.constructQuery())[0]["result"]
+        return self.dbConnection.query(self.constructQuery())[0]["result"]
 
 class ServiceAvailability(Statistic):
     def constructQuery(self):
-        queryString = ("select (100 - 100*(count(distinct epochtime)*300)" \
+        queryString = "select (100 - 100*(count(distinct epochtime)*300)" \
             + "/({1}-{0})) as result" \
-            + " from sysadmin.corecount" \
+            + " from {db}.core_count" \
             + " where cores = 0 and epochtime > {0}" \
-            + " and epochtime < {1};") \
-            .format(self.startEpoch,self.endEpoch)
+            + " and epochtime < {1};"
+        queryString = queryString.format(self.startEpoch,self.endEpoch,db=self.db)
         return queryString
 
 class CoreAvailability(Statistic):
     def constructQuery(self):
         queryString = "select avg(cores/total)*100 as result" \
-            + " from sysadmin.corecount" \
-            + " where epochtime > %s and epochtime < %s;" \
-            % (self.startEpoch,self.endEpoch)
+            + " from {db}.core_count" \
+            + " where epochtime > {0} and epochtime < {1};"
+        queryString = queryString.format(self.startEpoch,self.endEpoch,db=self.db)
         return queryString
         
 class Utilisation(Statistic):
     def constructQuery(self):
-        query = ("select(select sum((if(end_time < {1}, end_time, {1})" \
+        queryString = "select(select sum((if(end_time < {1}, end_time, {1})" \
             + "- if(start_time > {0}, start_time, {0}))*cost)" \
-            + " from sgelogs.accounting where start_time <={1}" \
-            + " and end_time >={0}") \
-            .format(self.startEpoch, self.endEpoch)
+            + " from {db}.accounting where start_time <={1}" \
+            + " and end_time >={0}"
         #remove research computing operations people
         for user in rcops:
-            query = query + " and owner != \"%s\"" % (rcops[user])
-        query = query + ")*100/"
-        query = query + "(select sum(cores)*300" \
-                + " from sysadmin.corecount" \
-                + " where epochtime > %s and epochtime < %s) as result;" \
-                % (self.startEpoch,self.endEpoch)
-        return query
+            queryString = queryString + " and owner != \"%s\"" % (rcops[user])
+        queryString = queryString + ")*100/"
+        queryString = queryString + "(select sum(cores)*300" \
+                + " from {db}.core_count" \
+                + " where epochtime > {0} and epochtime < {1}) as result;"
+        queryString = queryString.format(self.startEpoch,self.endEpoch,db=self.db)
+        return queryString
 
 class ActiveUsers(Statistic):
     def constructQuery(self):
-        query = ("select count(distinct(owner)) as result" \
-                 + " from sgelogs.accounting" \
-                 + " where start_time > %s" \
-                 + " and start_time <= %s") \
-                 %(self.startEpoch, self.endEpoch)
-        query = query + " and owner not regexp '^cours'"    #remove training course accounts
+        queryString = "select count(distinct(owner)) as result" \
+                 + " from {db}.accounting" \
+                 + " where start_time > {0}" \
+                 + " and start_time <= {1}"
+        queryString = queryString + " and owner not regexp '^cours'"    #remove training course accounts
         #remove research computing operations people
         for user in rcops:
-            query = query + " and owner != \"%s\"" % (rcops[user])
-        query = query + " ; "
-        return query
+            queryString = queryString + " and owner != \"%s\"" % (rcops[user])
+        queryString = queryString + " ; "
+        queryString = queryString.format(self.startEpoch,self.endEpoch,db=self.db)
+        return queryString
 
 class Slowdown(Statistic):
     def constructQuery(self):
@@ -110,18 +116,19 @@ class Slowdown(Statistic):
         else:
             nodeSelector = ""
 
-        query = ("select MIN(start_time), " + slowdown_calculation + " as result " \
-                 + "from sgelogs.accounting " \
+        queryString = "select MIN(start_time), " + slowdown_calculation + " as result " \
+                 + "from {db}.accounting " \
                  + "where category LIKE '%%h_rt=%%' " \
                  + "and submission_time <= start_time " \
                  + "and start_time > {0} " \
                  + "and start_time <= {1} " \
                  + nodeSelector \
-                 + "group by job_number;").format(self.startEpoch, self.endEpoch)
-        return query
+                 + "group by job_number;"
+        queryString = queryString.format(self.startEpoch,self.endEpoch,db=self.db)
+        return queryString
 
     def getResult(self):
-        raw = self.db.query(self.constructQuery())
+        raw = self.dbConnection.query(self.constructQuery())
         slowdownList = []
         for row in raw:
             slowdownList.append(row['result'])
@@ -163,16 +170,17 @@ class NullWriter(object):
 
 
 def main():    
-    startDate = dt.datetime(2014,7,1)
-    endDate = dt.datetime(2014,8,1)
+    startDate = dt.datetime(2015,12,1)
+    endDate = dt.datetime(2016,1,1)
 
-    nullwrite = NullWriter()
-    oldstdout = sys.stdout
-    sys.stdout = nullwrite
+##    nullwrite = NullWriter()
+##    oldstdout = sys.stdout
+##    sys.stdout = nullwrite
 
     kwargs = {
             "startDate": startDate,
             "endDate": endDate,
+            "db": "sgelogs2",
             "node": "all"
             }
 
@@ -186,7 +194,7 @@ def main():
 
     j = statFactory("Slowdown", **kwargs).getResult
 
-    sys.stdout = oldstdout
+##    sys.stdout = oldstdout
 
     print f.__self__.__class__.__name__, ":", f()
     print g.__self__.__class__.__name__, ":", g()

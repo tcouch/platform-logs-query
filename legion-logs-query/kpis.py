@@ -1,4 +1,4 @@
-from logs import LegionLogs as logs
+from logsConnector import logsConnection as logs
 from rcops import rcops
 from ldapquery import LDAPCon
 import datetime as dt
@@ -29,7 +29,7 @@ class KPIs:
 
         #Query to get list of all jobs within time period returning start_time, end_time, cost and owner for
         #core hours calculation.
-        query = ("select owner, ((end_time - start_time)*cost)/3600 as core_hours from sgelogs.accounting " + \
+        query = ("select owner, ((end_time - start_time)*cost)/3600 as core_hours from sgelogs2.accounting " + \
                  "where start_time > %s" + \
                  " and start_time <= %s") %(self.QueryStartEpoch, self.QueryEndEpoch)
         query = query + " and owner not regexp '^cours'"    #remove training course accounts
@@ -85,7 +85,7 @@ class KPIs:
         
         query = ("select submission_time, MIN(start_time), owner, " \
                  + slowdown_calculation + " as slowdown " \
-                 + "from sgelogs.accounting " \
+                 + "from sgelogs2.accounting " \
                  + "where category LIKE '%%h_rt=%%' " \
                  + "and submission_time <= start_time " \
                  + "and start_time > {0} " \
@@ -114,7 +114,7 @@ class KPIs:
         # Query the utilisation of the available service
         # Subtracting 2419200 (four weeks) from start_time for lower threshold in order to ensure that all jobs running during the period are included
         query = ("select sum((if(end_time < {1}, end_time, {1}) - if(start_time > {0}, start_time, {0}))*cost) as total_scheduled_CPU_time " \
-                 + "from sgelogs.accounting where start_time <={1} and end_time >={0}").format(self.QueryStartEpoch, self.QueryEndEpoch)
+                 + "from sgelogs2.accounting where start_time <={1} and end_time >={0}").format(self.QueryStartEpoch, self.QueryEndEpoch)
         for user in rcops:
             query = query + " and owner != \"%s\"" % (rcops[user]) 
         query = query + " ; "
@@ -197,8 +197,8 @@ def node2hostnames(node):
 
 if __name__=="__main__":
 
-    startDate = dt.datetime(2015,6,1)
-    endDate = dt.datetime(2015,7,1)
+    startDate = dt.datetime(2016,1,1)
+    endDate = dt.datetime(2016,2,1)
 
     kpis = KPIs(startDate,endDate)
     activeUsers = kpis.getActiveUserStats()

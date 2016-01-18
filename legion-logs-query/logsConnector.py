@@ -1,10 +1,10 @@
-#establish a __conn to Legion's SGE logs database
+#establish a __conn to platform's SGE logs database
 import MySQLdb
 import sys
-from secrets.sgelogs import Secrets as Secrecy
+from secrets.sgelogs import Secrets
 
-class LegionLogs:
-    Secrets=Secrecy()
+class logsConnection:
+    Secrets=Secrets()
     def __init__(self,host=Secrets.host,
                       port=Secrets.port,
                       user=Secrets.user,
@@ -16,7 +16,7 @@ class LegionLogs:
             self.__cursor = self.__conn.cursor(MySQLdb.cursors.DictCursor)
             self.__cursor.execute("SELECT VERSION()")
             row = self.__cursor.fetchone()
-            print "server version:", row         
+            print "server version:", row
         except MySQLdb.Error, e:
             print "Error %d: %s" % (e.args[0], e.args[1])
             sys.exit(1)
@@ -38,9 +38,9 @@ class LegionLogs:
             sys.exit(1)
     
 if __name__ == "__main__":
-    sgelogs = LegionLogs()
+    sgelogs = logsConnection()
     
-    rows = sgelogs.query("SELECT * FROM sgelogs.accounting limit 3;")
+    rows = sgelogs.query("SELECT * FROM sgelogs2.accounting limit 3;")
     print rows
     # print sgelogs.cursor.description
     exit()

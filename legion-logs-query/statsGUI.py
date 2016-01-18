@@ -12,6 +12,8 @@ class MainMenu(Tkinter.Tk):
     def initialize(self):
         self.grid()
 
+        self.initializePlatformSelector()
+
         self.initializeDateSection()
 
         #node type selection
@@ -20,19 +22,19 @@ class MainMenu(Tkinter.Tk):
                                         fg="white",
                                         bg="blue",
                                         width="12",
-                                        anchor="e").grid(column=0,row=3)
+                                        anchor="e").grid(column=0,row=4)
         self.nodeVar = Tkinter.StringVar()
         self.nodeVar.set('all')
         nodeList = list(sf.nodeDict.keys())
         nodeList.sort()
         nodeList.insert(0,"all")
         self.nodeSelector = Tkinter.OptionMenu(self, self.nodeVar, *nodeList)
-        self.nodeSelector.grid(row=3,column=1)
+        self.nodeSelector.grid(row=4,column=1)
 
 
         #Checkboxes to select statistics
         self.stats={}
-        rowCount = 4
+        rowCount = 5
         for statistic in sf.Statistic.__subclasses__():
             self.stats[statistic.__name__] = Tkinter.IntVar()
             Tkinter.Checkbutton(self,text=statistic.__name__,
@@ -44,17 +46,31 @@ class MainMenu(Tkinter.Tk):
         self.OK = Tkinter.Button(self, text="OK", command=self.OnOKClick) \
                   .grid(column=0,row=rowCount)
 
+    def initializePlatformSelector(self):
+        #platform selector
+        platformSelectLabel = Tkinter.Label(self,
+                                        text="Platform:",
+                                        fg="white",
+                                        bg="blue",
+                                        width="12",
+                                        anchor="e").grid(column=0,row=0)
+        self.platformVar = Tkinter.StringVar()
+        self.platformVar.set('Legion')
+        platformList = list(sf.platform2database.keys())
+        self.platformSelector = Tkinter.OptionMenu(self, self.platformVar, *platformList)
+        self.platformSelector.grid(row=0,column=1)
+
     def initializeDateSection(self):
         #Top labels
         self.MonthLabel = Tkinter.Label(self,
                                         text="Month (MM)",
                                         width="10")
-        self.MonthLabel.grid(column=1,row=0)
+        self.MonthLabel.grid(column=1,row=1)
 
         self.YearLabel = Tkinter.Label(self,
                                         text="Year (YYYY)",
                                         width="10")
-        self.YearLabel.grid(column=2,row=0)
+        self.YearLabel.grid(column=2,row=1)
 
 
         #Start date bits
@@ -64,17 +80,17 @@ class MainMenu(Tkinter.Tk):
                                        bg="blue",
                                        width="12",
                                        anchor="e")
-        self.startDateLabel.grid(column=0,row=1)
+        self.startDateLabel.grid(column=0,row=2)
 
         self.startMonth = Tkinter.StringVar()
         self.startMonthEntry = Tkinter.Entry(
             self,textvariable=self.startMonth,width="2")
-        self.startMonthEntry.grid(column=1,row=1)
+        self.startMonthEntry.grid(column=1,row=2)
 
         self.startYear = Tkinter.StringVar()
         self.startYearEntry = Tkinter.Entry(
             self,textvariable=self.startYear,width="4")
-        self.startYearEntry.grid(column=2,row=1)
+        self.startYearEntry.grid(column=2,row=2)
 
         #End date bits
         self.endDateLabel = Tkinter.Label(self,
@@ -83,21 +99,22 @@ class MainMenu(Tkinter.Tk):
                                        bg="blue",
                                        width="12",
                                        anchor="e")
-        self.endDateLabel.grid(column=0,row=2)
+        self.endDateLabel.grid(column=0,row=3)
 
         self.endMonth = Tkinter.StringVar()
         self.endMonthEntry = Tkinter.Entry(
             self,textvariable=self.endMonth,width="2")
-        self.endMonthEntry.grid(column=1,row=2)
+        self.endMonthEntry.grid(column=1,row=3)
 
         self.endYear = Tkinter.StringVar()
         self.endYearEntry = Tkinter.Entry(
             self,textvariable=self.endYear,width="4")
-        self.endYearEntry.grid(column=2,row=2)
+        self.endYearEntry.grid(column=2,row=3)
         
 
     def OnOKClick(self):
         if self.validateInput():
+            platform = self.platformVar.get()
             startYear = int(self.startYear.get())
             startMonth = int(self.startMonth.get())
             endYear = int(self.endYear.get())
@@ -113,7 +130,8 @@ class MainMenu(Tkinter.Tk):
                 "startDate":startDate,
                 "endDate":endDate,
                 "node":node,
-                "stats":stats
+                "stats":stats,
+                "db":sf.platform2database[platform]
                 }
             getRequestedStats(**kwargs)
 
