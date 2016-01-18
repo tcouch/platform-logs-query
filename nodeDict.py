@@ -1,0 +1,10 @@
+nodeDict = {}
+nodeDict['P'] = 'node-p'
+nodeDict['Q'] = 'node-q'
+nodeDict['S'] = 'node-s'
+nodeDict['T'] = 'node-t'
+nodeDict['U'] = 'node-u'
+nodeDict['V'] = 'node-v'
+nodeDict['X'] = 'node-x'
+nodeDict['Y'] = 'node-y'
+nodeDict['Z'] = 'node-z'

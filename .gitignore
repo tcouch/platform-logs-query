@@ -47,3 +47,11 @@ Temporary Items
 # ============
 
 *.pyc
+
+
+# =============
+# Secrets files
+# =============
+
+secrets
+userdata.pkl
