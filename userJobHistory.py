@@ -145,8 +145,8 @@ class jobHistory(object):
         
 
 def main():
-    startDate = dt.datetime(2015,12,1)
-    endDate = dt.datetime(2016,1,1)    
+    startDate = dt.datetime(2015,11,1)
+    endDate = dt.datetime(2015,12,1)    
 
     kwargs = {
         "startDate": startDate,
