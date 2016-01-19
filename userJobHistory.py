@@ -2,9 +2,8 @@ from logsConnector import logsConnection as logs
 from ldapquery import LDAPCon
 from rcops import rcops
 from platform2database import platform2database
-import pickle
+import pickle, csv
 import datetime as dt
-import sys
 
 
 class jobHistory(object):
@@ -80,6 +79,7 @@ class jobHistory(object):
                 if filter(lambda ldapUserData: ldapUserData['userid'] == job['owner'], ldapData):
                     ldapcreds = filter(lambda ldapUserData: ldapUserData['userid'] == job['owner'], ldapData)[0]
                     dept = ldapcreds['department']
+                    faculty = ldapcreds['faculty']
                     sn = ldapcreds['surname']
                     givenName = ldapcreds['given name']
                 else:
@@ -88,22 +88,28 @@ class jobHistory(object):
                         dept = ''.join(ldapcreds[0][-1].get('department','Department not found'))
                         sn = ''.join(ldapcreds[0][-1].get('sn','Surname not found'))
                         givenName = ''.join(ldapcreds[0][-1].get('givenName','given name not found'))
+                        faculty = self.get_faculty(dept)
                     except:
                         sn = "Not Found"
                         dept = "Not Found"
                         givenName = "Not Found"
+                        faculty = "Not Found"
                     ldapData.append({'userid':job['owner'],
                                      'department':dept,
+                                     'faculty':faculty,
                                      'surname':sn,
                                      'given name':givenName})
                 userSummary.append({'userid':job['owner'],
                                     'core_hours':job['core_hours'],
                                     'surname':sn,
                                     'given name':givenName,
-                                    'department':dept})
+                                    'department':dept,
+                                    'faculty':faculty})
                 users.append(job['owner'])
                 with open('userdata.pkl','wb') as ldapDataFile:
                     pickle.dump(ldapData,ldapDataFile)
+            else:
+                filter(lambda x: x['userid'] == job['owner'], userSummary)[0]['core_hours'] += job['core_hours']
         return userSummary
 
     def printResults(self):
@@ -116,10 +122,31 @@ class jobHistory(object):
             print dataRow.format(user["userid"],user["given name"],
                                  user["surname"],user["department"],user["core_hours"])
         print "Done"
+        
+    def makeResultsCSV(self):
+        userSummary = self.processResult()
+        keys = ['userid', 'surname', 'given name', 'department', 'faculty', 'core_hours']
+        filename = "activeUsers_%s_%s_%s.csv" % (self.platform,self.startDate.strftime('%d%m%Y'), self.endDate.strftime('%d%m%Y'))
+        f = open(filename, 'wb')
+        dict_writer = csv.DictWriter(f, keys)
+        dict_writer.writer.writerow(keys)
+        dict_writer.writerows(userSummary)
+        
+    def get_faculty(self,dept):
+    #lookup faculty in orgchart file using department
+        orgchart = "orgchart.csv"
+        with open(orgchart, 'rb') as f:
+            reader = csv.reader(f, delimiter=',')
+            for row in reader:
+                if dept == row[0]:
+                    return row[6]
+        return "Faculty not found"
+        
+        
 
 def main():
-    startDate = dt.datetime(2016,1,1)
-    endDate = dt.datetime(2016,1,31)    
+    startDate = dt.datetime(2015,12,1)
+    endDate = dt.datetime(2016,1,1)    
 
     kwargs = {
         "startDate": startDate,
@@ -128,7 +155,7 @@ def main():
 #        "usernames": ["cceatco"]
         }
 
-    jobHistory(**kwargs).printResults()
+    jobHistory(**kwargs).makeResultsCSV()
 
         
 if __name__ =="__main__":
