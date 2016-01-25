@@ -2,9 +2,9 @@ rcops={
     "Tom Couch": "cceatco",
     "Jo Lampard": "cceajla",
     "Brian Alston": "ccaabaa",
+    "Brian Alston": "ucaabaa",
     "Owain Kenway": "uccaoke",
     "Ian Kirker": "uccaiki",
-    "David Gregory": "ccaadgr",
     "Thomas Jones": "ccaathj",
     "William Hay": "ccaawih",
     "Francesco Tusa": "cceaftu",
@@ -19,5 +19,6 @@ rcops={
     "Raquel Alegre": "ccearal",
     "Mayeul D'Avezac": "cceamda",
     "Jens Nielsen": "cceajhn",
+    "Gary Macindoe": "ucakgim"
     "Paul Hajisavvi": "zzaapsh"
     }
