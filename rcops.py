@@ -19,6 +19,6 @@ rcops={
     "Raquel Alegre": "ccearal",
     "Mayeul D'Avezac": "cceamda",
     "Jens Nielsen": "cceajhn",
-    "Gary Macindoe": "ucakgim"
+    "Gary Macindoe": "ucakgim",
     "Paul Hajisavvi": "zzaapsh"
     }
