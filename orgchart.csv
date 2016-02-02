@@ -1,494 +1,475 @@
-DSC_LNG,ORG,LVL,PARENT,PARENT_LVL,FACULTY_CODE,FACULTY_DSC_LNG,ORG_PATH,GRP
-Academic Centre of Medical Education,HAOA,65,HAO,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/HAO/HAOA/,acenme
-Academic Services,LJ,70,RDIV,60,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/LJ/,acadserv
-Access and Admissions,RJ,70,RDIV,60,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RJ/,edliaison
-Activities & Skills,XUI3,80,XUI,70,,,/UCL/PROV/VPA/XU/XUI/XUI3/,unionad
-Admissions,RJB,80,RJ,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RJ/RJB/,colladoff
-Advanced Centre for Biochem Engineering,EGA,70,EG,60,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EG/EGA/,advcenbioe
-Advanced Instrumentation Systems,MA,70,MV,60,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MV/MA/,cais
-Advice & Welfare,XUI1,80,XUI,70,,,/UCL/PROV/VPA/XU/XUI/XUI1/,unionaj
-Alumni Relations & Individual Giving,LKI,70,LK,60,LK,Development and Alumni Relations,/UCL/PROV/VPA/LK/LKI/,alumind
-Application Development,JKA,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKA/,appdev
-Application Services,JK,60,JEISD,40,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/,appserv
-Applied Health Research,G6C,65,G6,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G6/G6C/,appliedhth
-Arts Faculty Office,AF,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AF/,artsfacoff
-Astor College,TCA,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCA/,astor
-Biological Services,VZ,65,HA,60,,,/UCL/PROV/SLIMEDSC/HA/VZ/,bioserv
-Biomaterials & Tissue Eng,IDF,65,ID,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/IDF/,edibiomat
-Biosciences Dissecting Room,FID,70,F1,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/FID/,flsdroom
-Bloomsbury Cafe,XUA1B,90,XUA1,80,,,/UCL/PROV/VPA/XU/XUA/XUA1/XUA1B/,unionbcaf
-Bloomsbury Fitness Centre,XUA2,80,XUA,70,,,/UCL/PROV/VPA/XU/XUA/XUA2/,unionbfc
-Bloomsbury Theatre,VT,60,VPA,30,,,/UCL/PROV/VPA/VT/,bloomsthea
-Brain Repair & Rehabilitation,IND,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/IND/,ionhead
-Building Services,LCBB,80,LCB,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCB/LCBB/,design
-Built Environment Faculty Office,BO,60,BEF,40,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BO/,befacoff
-Business Change Services,JLB,70,JL,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JL/JLB/,buscserv
-CHIME,GJ,65,G6,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G6/GJ/,chime
-CMII,AX,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AX/,intrculstd
-CREST,ELA,70,EL,60,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EL/ELA/,crst
-CRUK Cancer Trials Centre,HDB,65,G4,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G4A/G4/HDB/,ctc
-Campbell House,TCB,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCB/,campbell
-Cancer Institute,G4,50,G4A,45,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G4A/G4/,cancerinst
-Capital Projects,LCB,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCB/,propmgmt
-Capital Projects Management,LCBA,80,LCB,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCB/LCBA/,capital
-Cardiometabolic Phenotyping Group,ICS7,80,ICS,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS7/,cpgroup
-Cardiovascular Imaging Group,ICS5A,80,ICS5,70,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS5/ICS5A/,cardimggp
-Cardiovascular Medicine,G3C,65,G3,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/G3C/,cardsci
-Cardiovascular Prevention & Outcomes,ICS5D,80,ICS5,70,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS5/ICS5D/,cardpo
-Cardiovascular Surgery,ICS4,70,ICS,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS4/,cardsurg
-Careers Service,TA,60,VPA,30,,,/UCL/PROV/VPA/TA/,careers
-Casuals - As & When Payments,XCAS,60,PROV,20,,,/UCL/PROV/XCAS/,casuals
-Cell & Developmental Biology,CDB,65,F1,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/CDB/,celldevbio
-Cen for Adv of Learning & Teaching,JA,60,VPED,30,,,/UCL/PROV/VPED/JA/,calt
-Central Ops Service & Customer Relations,JIA,70,JI,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JI/JIA/,coscs
-Centre for Advanced Spatial Analysis,SC,60,BEF,40,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/SC/,casa
-Centre for Cardiology in the Young,ICS1,70,ICS,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS1/,cency
-Centre for Cardiovascular Genetics,ICS3,70,ICS,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS3/,cencg
-Centre for Languages & Int'l Education,AR,60,VPI,30,,,/UCL/PROV/VPI/AR/,langcntr
-Centre for Preparatory Studies - Astana,ARA,70,AR,60,AR,Centre for Languages & Int'l Education,/UCL/PROV/VPI/AR/ARA/,cpsastana
-Centre for Security & Crime Science,SJX,60,ENG,40,,,/UCL/PROV/SCHSCI/ENG/SJX/,seccrimsci
-Client Platform Services,JIB,70,JI,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JI/JIB/,cpserv
-Clinical & Experimental Epilepsy,INC,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INC/,ionceepi
-Clinical Neuroscience,HF,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/HF/,clinneur
-Clinical Operational Research Unit,MIA,70,MI,60,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MI/MIA/,coru
-Clinical Physiology,G3P,65,G3,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/G3P/,clipsy
-Clinical Research,ID6,65,ID,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/ID6/,clres
-Clinical Trials Unit,G7E,70,G7,65,,,/UCL/PROV/SLIMEDSC/HA/G7/G7E/,clintrl
-"Clinical, Educational & Hlth Psychology",CEHP,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/CEHP/,cliedhtpsy
-CoMPLEX: Mat&Phys in Life Sci & Exp Bio,MB,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MB/,complex
-"Cognitive, Perceptual & Brain Sciences",CPBS,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/CPBS/,cgperbrsci
-Common & Infrastructure Applications,JKB,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKB/,cominfapp
-Communications,LKCC,80,LKC,60,LKC,Communications & Marketing,/UCL/PROV/VPA/LKC/LKCC/,devcomms
-Communications & Marketing,LKC,60,VPA,30,,,/UCL/PROV/VPA/LKC/,corpcomm
-Conference & Room Bookings,LCBC,80,LCH,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCH/LCBC/,property
-Congenital Heart Disease,ICS5,70,ICS,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS5/,chdisease
-"Construction, Maintenance & Fire Safety",LCCD,80,LCF,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCF/LCCD/,const
-Continuing Professional Development,IDK,65,ID,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/IDK/,ediprofdev
-Craniofacial & Development Sciences,ID7,65,ID,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/ID7/,cads
-Creative Media Services,JMB,70,JM,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JM/JMB/,desphserv
-Cruciform Teaching Facilities Unit,HAG,65,FLS,40,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/HAG/,ctfu
-Customer Services,LCCAA,80,LCCA,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCCA/LCCAA/,telecom
-Database,LKOD,80,LKO,70,LK,Development and Alumni Relations,/UCL/PROV/VPA/LK/LKO/LKOD/,devdata
-Database Technology & Architecture,JKC,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKC/,datatecat
-Datacentre Services,JIC,70,JI,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JI/JIC/,dataserv
-Day Nursery,RD,80,LCCA,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCCA/RD/,daynurs
-Dean of Students (Academic),TWA,60,VPED,30,,,/UCL/PROV/VPED/TWA/,dofstudaca
-Dean of Students (Welfare),TWW,60,VPA,30,,,/UCL/PROV/VPA/TWW/,dofstudwel
-Departmental Administrative Applications,JKD,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKD/,deptaa
-Dept of Anthropology,SB,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SB/,anthrop
-Dept of Biochemical Engineering,EG,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EG/,biochemeng
-Dept of Cancer,IC2,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC2/,ichcancer
-Dept of Cardiorespiratory Sciences,IC3,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC3/,ichcardsci
-Dept of Chemical Engineering,EB,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EB/,chemeng
-Dept of Chemistry,ME,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/ME/,chemistry
-"Dept of Civil, Environ & Geomatic Eng",EC,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EC/,civeng
-Dept of Computer Science,EL,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EL/,compsci
-Dept of Dutch,AJ,70,AA,50,,,/UCL/PROV/SARSOSC/ARTS/AA/AJ/,dutch
-Dept of Earth Sciences,MF,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MF/,earthsci
-Dept of Economics,SE,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SE/,economics
-Dept of Electronic & Electrical Eng,EE,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EE/,eeeng
-Dept of English Lang & Literature,AG,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AG/,english
-Dept of French,AI,70,AA,50,,,/UCL/PROV/SARSOSC/ARTS/AA/AI/,french
-Dept of Gen & Adolescent Paediatrics,IC8,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC8/,ichgstauto
-"Dept of Genes, Dev & Disease",IC4,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC4/,ichgenes
-Dept of Geography,SK,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SK/,geography
-Dept of German,AL,70,AA,50,,,/UCL/PROV/SARSOSC/ARTS/AA/AL/,german
-Dept of Greek & Latin,AM,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AM/,greek
-Dept of Hebrew & Jewish Studies,AN,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AN/,jewishstud
-Dept of History,SO,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SO/,history
-Dept of History of Art,SP,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SP/,historyart
-Dept of Infection & Immunity,IC5,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC5/,ichii
-Dept of Information Studies,AS,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AS/,slais
-Dept of Italian,AQ,70,AA,50,,,/UCL/PROV/SARSOSC/ARTS/AA/AQ/,italian
-Dept of Management Science & Innovation,EM,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EM/,mgmntsci
-Dept of Mathematics,MI,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MI/,maths
-Dept of Mechanical Engineering,ED,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/ED/,mecheng
-Dept of Medical Phys & Bioengineering,EA,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EA/,medphys
-Dept of Neurosciences & Mental Health,IC6,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/,ichnmhlth
-Dept of Nutritional & Surgical Science,IC1,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC1/,ichbnsci
-Dept of Philosophy,AT,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AT/,philosophy
-Dept of Physics & Astronomy,MJ,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MJ/,physast
-Dept of Political Science,ST,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/ST/,polsci
-Dept of Population Health Sciences,IC7,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC7/,ichpop
-Dept of Scandinavian Studies,AY,70,AA,50,,,/UCL/PROV/SARSOSC/ARTS/AA/AY/,scanstuds
-Dept of Science & Technology Studies,MG,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MG/,scitech
-Dept of Security and Crime Science,SJD,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/SJD/,jlldninst
-Dept of Space & Climate Physics,MV,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MV/,mssl
-Dept of Spanish & Latin American Studies,AE,70,AA,50,,,/UCL/PROV/SARSOSC/ARTS/AA/AE/,spanish
-Dept of Statistical Science,MN,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MN/,statsci
-Development Planning Unit,BD,60,BEF,40,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BD/,dpu
-Development and Alumni Relations,LK,60,VPA,30,,,/UCL/PROV/VPA/LK/,dcco
-Developmental Science,DSC,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/DSC/,devsci
-Directors Office,LKD,70,LK,60,LK,Development and Alumni Relations,/UCL/PROV/VPA/LK/LKD/,devdiroff
-Div of Biosciences,F1,50,FLS,40,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/,biosci
-Div of Infection & Immunity,G1,50,GHCSCI,40,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G1/,ii
-Div of Medicine,G3,50,GHCSCI,40,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/,med
-Div of Psychology & Language Sciences,F2,50,FBRS,40,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/,psylangsci
-Div of Surgery & Interventional Sci,G2,50,GHCSCI,40,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G2/,g2
-E-Learning Environments,JMA,70,JM,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JM/JMA/,elearnenv
-Eastman Dental Institute,ID,50,GHCSCI,40,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/,edi
-Education & Cardiovascular Morphology,ICS5C,80,ICS5,70,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS5/ICS5C/,educm
-Engineering & Maintenance,LCCB,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCCB/,bldgmain
-Engineering Science Faculty Office,EO,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EO/,engfacoff
-Enterprise Administrative Applications,JKE,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKE/,entpriseaa
-Environmental Sustainability,LCJ,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCJ/,environsus
-Epidemiology & Public Health,GQ,65,G6,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G6/GQ/,epid
-Estates Division,LC,60,VPA,30,,,/UCL/PROV/VPA/LC/,efd
-Estates IT,JNA,70,JN,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JN/JNA/,estateit
-Estates Strategy & Space,LCH,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCH/,estss
-Estates Support Services,LCA,80,LCK,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCK/LCA/,estadmin
-European Research & Development,LDE,80,LDD,70,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDD/LDE/,eurord
-European Social & Political Studies,AU,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AU/,esps
-Events,XUA4,80,XUA,70,,,/UCL/PROV/VPA/XU/XUA/XUA4/,unionev
-Events,LKOE,80,LKC,60,LKC,Communications & Marketing,/UCL/PROV/VPA/LKC/LKOE/,devevnt
-Ex-Gratia Pensioners,XPEN,60,UCL,10,,,/UCL/XPEN/,pensioners
-Examinations,RKB,80,RK,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RK/RKB/,exams
-External Organisations affiliated to UCL,UCLEXT,10, , ,,,/UCLEXT/,uclext
-Facilities Services,LCCA,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCCA/,facserv
-Faculty of Arts & Humanities,ARTS,40,SARSOSC,35,,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/,arts
-Faculty of Brain Sciences,FBRS,40,SLIMEDSC,35,,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/,fbrainsci
-Faculty of Engineering Science,ENG,40,SCHSCI,35,,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/,engscifac
-Faculty of Laws,DLAWS,40,SARSOSC,35,,Faculty of Laws,/UCL/PROV/SARSOSC/DLAWS/,lawsfac
-Faculty of Life Sciences,FLS,40,SLIMEDSC,35,,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/,faclifesci
-Faculty of Maths & Physical Sciences,MPS,40,SCHSCI,35,,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/,maps
-Faculty of Medical Sciences,GHCSCI,40,SLIMEDSC,35,,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/,biomedsci
-Faculty of Population Health Sciences,FPHS,40,SLIMEDSC,35,,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/,fphlthsci
-Faculty of Social & Historical Sciences,SHS,40,SARSOSC,35,,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/,shs
-Faculty of the Built Environment,BEF,40,SCHSCI,35,,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/,facbe
-Finance & Business Affairs,LD,60,VPA,30,,,/UCL/PROV/VPA/LD/,findiv
-Financial Accounting,LDA,80,LDL,70,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDL/LDA/,finacc
-Financial Analysis & Reporting,LDC,80,LDL,70,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDL/LDC/,pma
-Financial Control & Analysis,LDL,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDL/,finconana
-Financial Information Systems,JNB,70,JN,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JN/JNB/,fininfosys
-Food & Beverage,XUA1,80,XUA,70,,,/UCL/PROV/VPA/XU/XUA/XUA1/,unionfab
-Gatsby Computational Neuroscience Unit,FA,60,FLS,40,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/FA/,gatsby
-"Genetics, Evolution & Environment",GEE,65,F1,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/GEE/,genevoenv
-George Farha Cafe Bar,XUA1C,90,XUA1,80,,,/UCL/PROV/VPA/XU/XUA/XUA1/XUA1C/,unionrcaf
-Goldsmid House,TCC,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCC/,goldsmid
-Gordon Street Bar,XUA1E,90,XUA1,80,,,/UCL/PROV/VPA/XU/XUA/XUA1/XUA1E/,uniongbar
-Gordon's Cafe,XUA1A,90,XUA1,80,,,/UCL/PROV/VPA/XU/XUA/XUA1/XUA1A/,uniongcaf
-Graduate School,PH,60,VPA,30,,,/UCL/PROV/VPA/PH/,gradschool
-HR Administrative Process Team,LHDC,80,LHC,70,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHC/LHDC/,hradpr
-Hatter Cardiovascular Institute,ICS2,70,ICS,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS2/,hcinst
-Hawkridge,TCH,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCH/,hawk
-Human Resources Consultancy,LHB,70,LH,60,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHB/,hrcons
-Human Resources Director's Office,LHA,70,LH,60,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHA/,hrdiroff
-Human Resources Division,LH,60,VPA,30,,,/UCL/PROV/VPA/LH/,hrdiv
-Human Resources Information Office,LHDB,80,LHC,70,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHC/LHDB/,hrio
-Human Resources Operations Team,LHDA,80,LHE,70,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHE/LHDA/,hrops
-Human Resources Policy and Planning,LHC,70,LH,60,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHC/,hrpolicy
-ICH - Audiological Medicine,IC6J,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6J/,ichaudio
-ICH - Behavioural & Brain Sciences,IC6A,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6A/,ichbehav
-ICH - Cardiac Unit,IC3A,70,IC3,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC3/IC3A/,ichcardiac
-ICH - Centre for Nursing & Allied Health,IC3B,70,IC8,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC8/IC3B/,ichnurah
-ICH - Clinical & Molecular Genetics,IC4A,70,IC4,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC4/IC4A/,ichmolgen
-ICH - Ctr for Children's Palliative Care,IC8B,70,IC8,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC8/IC8B/,ccpc
-ICH - Ctr for International Health & Dev,IC7A,70,IC7,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC7/IC7A/,ichichunit
-ICH - Developmental Biology Unit,IC6B,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6B/,ichdevbio
-ICH - Developmental Cognitive Neurosci,IC6C,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6C/,ichdevcogn
-ICH - Directors Office,ICD,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICD/,ichdiroff
-ICH - Dubowitz Neuromuscular Centre,IC6K,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6K/,ichdbnc
-ICH - Estates & Facilities Department,ICGB,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGB/,ichefdep
-ICH - Events,ICGA,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGA/,ichevents
-ICH - Finance,ICFA,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICFA/,ichfin
-ICH - Gastroenterology & Autoimmunity,IC5E,70,IC5,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC5/IC5E/,ichga
-ICH - Gen & Adolescent Paediatrics Unit,IC8A,70,IC8,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC8/IC8A/,ichgenapu
-ICH - General Administration,ICG,65,IC,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/,ichgenadmi
-ICH - Human Resources,ICGC,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGC/,ichhr
-ICH - Imaging and Biophysics Unit,IC6I,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6I/,ichradio
-ICH - Immunobiology Unit,IC5A,70,IC5,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC5/IC5A/,ichimmunit
-ICH - Infectious Diseases & Microbiology,IC5B,70,IC5,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC5/IC5B/,ichinfdis
-ICH - Information Systems Unit,ICGE,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGE/,ichisu
-ICH - Laboratory Management,ICGH,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGH/,ichlabmgt
-ICH - Library,ICGF,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGF/,ichlibrary
-ICH - Medical Illustration,ICGG,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGG/,ichmedill
-ICH - Medical Molecular Biology Unit,IC4B,70,IC4,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC4/IC4B/,ichmolbio
-ICH - Molecular Haem & Cancer Biology,IC2A,70,IC2,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC2/IC2A/,ichmhcb
-ICH - Molecular Immunology Unit,IC5C,70,IC5,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC5/IC5C/,ichmolimm
-ICH - Molecular Medicine Unit,IC4D,70,IC4,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC4/IC4D/,ichmolmed
-ICH - Nephro-Urology Unit,IC4E,70,IC4,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC4/IC4E/,ichnuunit
-ICH - Neural Development Unit,IC6D,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6D/,ichneurdev
-ICH - Neural Plasticity Unit,IC6E,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6E/,ichneurpla
-ICH - Neurosciences Unit,IC6G,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6G/,ichneursci
-ICH - Nutrition Unit,IC1B,70,IC1,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC1/IC1B/,ichnutn
-ICH - Paediatric Epidemiology Unit,IC7C,70,IC7,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC7/IC7C/,ichpaeduni
-ICH - Portex Anaesthesia,IC3D,70,IC3,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC3/IC3D/,ichportex
-ICH - Research & Development Department,ICGD,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGD/,ichrd
-ICH - Research Degrees,ICGI,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGI/,ichresdegr
-ICH - Research Grants,ICFB,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICFB/,ichresgran
-ICH - Rheumatology Unit,IC5D,70,IC5,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC5/IC5D/,ichrheum
-ICH - Surgery Unit,IC1C,70,IC1,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC1/IC1C/,ichsurgery
-ICH - Taught Courses,ICGJ,70,ICG,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/ICG/ICGJ/,ichtaughtc
-ICH - Visual Sciences Unit,IC6H,70,IC6,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/IC6/IC6H/,ichvissci
-ISD Administrative Services,JLA,70,JL,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JL/JLA/,adminserv
-IT Change & Project Delivery Services,JL,60,JEISD,40,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JL/,itcpdserv
-IT For SLMS Infrastructure,JEB,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JEB/,itslmsin
-IT For SLMS Medical Sciences,JEG,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JEG/,itslmsms
-IT For SLMS Research and Education,JEC,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JEC/,itslmsre
-IT Portfolio Management Services,JLC,70,JL,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JL/JLC/,itpmgtserv
-IT Quality Management Services,JLD,70,JL,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JL/JLD/,itqmgtserv
-IT for SLMS,JE,60,JEISD,40,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/,itslms
-IT for SLMS Brain Sciences,JEE,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JEE/,itslmsbs
-IT for SLMS Director's Office,JEA,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JEA/,itslmsdo
-IT for SLMS Life Sciences,JEH,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JEH/,itslmsls
-IT for SLMS Medical Illustration,JED,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JED/,itslmsmi
-IT for SLMS Population Health Sciences,JEF,70,JE,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JE/JEF/,itslmsph
-IT for Support Services,JN,60,JEISD,40,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JN/,itforsserv
-Ifor Evans / Max Rayne,TCD,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCD/,iformax
-Imaging Neuroscience,INE,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INE/,ionimage
-Infection & Population Health,G6A,65,G6,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G6/G6A/,inph
-Inflammation,G3I,65,G3,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/G3I/,infla
-Information Security,JID,70,JI,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JI/JID/,infosec
-Information Services Division,JEISD,40,VPA,30,,Information Services Division,/UCL/PROV/VPA/JEISD/,isd
-Information and Data Services,RP,70,RDIV,60,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RP/,mgtinfo
-Inst Ophthalmology - Cell Biology,IOD,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOD/,ioocell
-Inst Ophthalmology - EM Unit/Imaging SRF,IOP,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOP/,emuisrf
-Inst Ophthalmology - Genetics,IOE,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOE/,ioomolge
-Inst Ophthalmology - Ocular Biology,IOT,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOT/,ocbioth
-Inst Ophthalmology - Scientific Workshop,IOU,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOU/,sciwork
-Inst Ophthalmology - Visual Neuroscience,IOJ,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOJ/,ioovissc
-Inst for Women's Health,G5,50,FPHS,40,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G5/,wch
-Inst of Clinical Trials &Methodology,G10,50,FPHS,40,FPHS,Faculty of Population Health Sciences,,
-Inst of Clinical Trials & Methodology,G10,50,FPHS,40,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G10/,instctm
-Inst of Orthopaedics & Musculosk Sci,HQ,65,G2,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G2/HQ/,ioorth
-Institute Estates,IOQ,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOQ/,estates
-Institute Library Services,IOS,65,IO,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/IOS/,libserv
-Institute for Global Health,IGH,50,FPHS,40,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IGH/,instgb
-Institute for Risk & Disaster Reduction,MFA,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MFA/,irdr
-Institute of Archaeology,SW,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SW/,archaeol
-Institute of Biomedical Engineering,EN,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EN/,insbioeng
-Institute of Cardiovascular Science,ICS,50,FPHS,40,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/,ics
-Institute of Child Health,IC,50,FPHS,40,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/IC/,ich
-Institute of Cognitive Neuroscience,FGB,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/FGB/,cogneuro
-Institute of Epidemiology & Health,G6,50,FPHS,40,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G6/,pophealth
-Institute of Neurology,IN,50,FBRS,40,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/,ion
-Institute of Ophthalmology,IO,50,FBRS,40,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IO/,ioophth
-"Institute of Sport, Exercise and Health",HT,65,G2,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G2/HT/,ioseh
-Institute of the Americas,SM,50,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SM/,instameri
-Intercollegiate Department,ICOLL,60,UCLEXT,10,,,/UCLEXT/ICOLL/,intercoll
-Internal Audit Services,LI,60,VPA,30,,,/UCL/PROV/VPA/LI/,intaudit
-Internal Medicine,G3M,65,G3,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/G3M/,intmed
-International Office,RJC,80,LKC,60,LKC,Communications & Marketing,/UCL/PROV/VPA/LKC/RJC/,intoff
-IoN - Audio-Visual Centre,INAC,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INAC/,ionavcntr
-IoN - Neuroinflammation,INI,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INI/,ioninflam
-IoN Administration,INA,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INA/,ionadmin
-IoN Computer Unit,INAD,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INAD/,ioncomp
-IoN Library,INAA,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INAA/,ionlibrary
-James Lighthill House,TCI,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCI/,lighthill
-John Dodgson House,TCJ,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCJ/,dodgson
-Knowledge Transfer,VPEK,40,VPE,30,,,/UCL/PROV/VPE/VPEK/,knowtran
-Langton Close,TCE,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCE/,langton
-Language & Communication,LCM,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/LCM/,langcom
-Learning & Teaching Applications,JKF,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKF/,learnta
-Learning Technology & Media Services,JM,60,JEISD,40,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JM/,ltmserv
-Legal Services,LDJ,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDJ/,legalser
-Library Services,VL,60,VPA,30,,Library Services,/UCL/PROV/VPA/VL/,libraryser
-Linguistics,LGI,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/LGI/,linguistic
-London Centre for Nanotechnology,MW,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MW/,nanotech
-MAPS Faculty Office,MO,60,MPS,40,MPS,Faculty of Maths & Physical Sciences,/UCL/PROV/SCHSCI/MPS/MO/,mapsfacoff
-MRC Clinical Trials Unit Support Team,G9A,70,G9,65,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G10/G9/G9A/,ctuadmin
-MRC Clinical Trials Unit at UCL,G9,65,G10,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G10/G9/,mrcctu
-MRC Unit for Lifelong Health & Ageing,G6B,65,G6,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G6/G6B/,mrclha
-MRC/UCL Lab for Molecular Cell Biology,FK,50,FLS,40,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/FK/,mrclmcb
-Mail Services,LCCAC,80,LCCA,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCCA/LCCAC/,mail
-Main & Science Libraries,VLL,70,VL,60,VL,Library Services,/UCL/PROV/VPA/VL/VLL/,mscilib
-Maintenance & Operations,LCCC,80,LCCA,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCCA/LCCC/,seem
-Major Projects,LKM,70,LK,60,LK,Development and Alumni Relations,/UCL/PROV/VPA/LK/LKM/,majproj
-Maternal & Fetal Medicine,GF,65,G5,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G5/GF/,mfmed
-"MaxFac, Diagnostic, Medical & Surg Sci",IDT,65,ID,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/IDT/,edioms
-Media Relations,LKCM,80,LKC,60,LKC,Communications & Marketing,/UCL/PROV/VPA/LKC/LKCM/,devcomm
-Medical Student Administration,HAH,65,HAO,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/HAO/HAH/,msah
-Mental Health Sciences Unit,GR,60,FBRS,40,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/GR/,mhs
-Metabolism & Experimental Therapeutics,G3T,65,G3,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/G3T/,metexthp
-Microbial Diseases,IDR,65,ID,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/IDR/,edimicrob
-Molecular Neuroscience,INF,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INF/,ionmolneur
-Motor Neuroscience & Movement Disorders,ING,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/ING/,ionmotor
-Museums and Public Engagement,VC,60,VPA,30,,,/UCL/PROV/VPA/VC/,colcollect
-NICOR,ICS6,70,ICS,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS6/,nistcor
-Neonatology,GN,65,G5,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G5/GN/,neon
-Network Services,JIE,70,JI,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JI/JIE/,netserv
-Neurodegenerative Diseases,INH,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/INH/,iondegen
-"Neuroscience, Physiology & Pharmacology",NPP,65,F1,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/NPP/,neurphypha
-Occupational Health Service,LHF,70,LH,60,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHF/,ohhr
-Office for International Affairs,LDK,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDK/,internat
-Office of the President & Provost,PROV,20,UCL,10,,,/UCL/PROV/,provost
-Operations,LKO,70,LK,60,LK,Development and Alumni Relations,/UCL/PROV/VPA/LK/LKO/,devops
-Organisational Development,LHG,70,LH,60,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHG/,osdt
-Payroll & Pension Services,LHE,70,LH,60,LH,Human Resources Division,/UCL/PROV/VPA/LH/LHE/,hrpaps
-Pharmaceutical & Biological Chemistry,PSB,65,PS,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/PS/PSB/,phbiochem
-Pharmaceutics,PSA,65,PS,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/PS/PSA/,pharma
-Pharmacology,PSC,65,PS,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/PS/PSC/,phmcology
-Platform Technologies,G7C,70,G7,65,,,/UCL/PROV/SLIMEDSC/HA/G7/G7C/,acadac
-PolyMASC plc,XBA,70,XB,60,,,/UCL/PROV/VPE/VPEK/XB/XBA/,polymasc
-Portico Services,RPC,80,RP,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RP/RPC/,portser
-Practice & Policy,PSD,65,PS,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/PS/PSD/,practpol
-Primary Care & Population Health,GZ,65,G6,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G6/GZ/,pcps
-Print Room Cafe/Bar,XUA1F,90,XUA1,80,,,/UCL/PROV/VPA/XU/XUA/XUA1/XUA1F/,unionprcaf
-Pro-Provosts,PRO-P,40,PROV,20,,,/UCL/PROV/PRO-P/,proprovs
-Procurement Services,LCD,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LCD/,procure
-Professional Services,VPA,30,PROV,20,,Professional Services,/UCL/PROV/VPA/,vpops
-Professional Services Finance,LDI,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDI/,cssfin
-"Project Delivery Services (L& T, & Supp)",JLE,70,JL,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JL/JLE/,pdservlts
-Project Delivery Services(Research & In),JLF,70,JL,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JL/JLF/,pdservri
-Property,LCI,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCI/,prop
-Publications and Marketing Services,RJE,80,LKC,60,LKC,Communications & Marketing,/UCL/PROV/VPA/LKC/RJE/,publics
-R & D Office,G7A,70,G7,65,,,/UCL/PROV/SLIMEDSC/HA/G7/G7A/,rd
-RLW Institute of Neurological Sciences,HM,65,IN,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/IN/HM/,rlwinst
-Ramsay Hall,TCF,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCF/,ramsay
-Registrar's Office,RB,70,RDIV,60,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RB/,regoff
-Registry Web and IT Support,RPA,80,RP,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RP/RPA/,sysserv
-Representation & Campaigns,XUI2,80,XUI,70,,,/UCL/PROV/VPA/XU/XUI/XUI2/,unionds
-Reproductive Medicine,GG,65,G5,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G5/GG/,rmed
-Research,LKOS,80,LKO,70,LK,Development and Alumni Relations,/UCL/PROV/VPA/LK/LKO/LKOS/,devrsch
-Research Application Services,JJC,70,JJ,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JJ/JJC/,resapserv
-Research Applications - Operations,JKH,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKH/,resapops
-Research Applications and Services,JKG,70,JK,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JK/JKG/,resapp
-Research Comp & Facilitating Services,JJA,70,JJ,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JJ/JJA/,rescfserv
-Research Coordinators,G7B,70,G7,65,,,/UCL/PROV/SLIMEDSC/HA/G7/G7B/,rescor
-Research Data Services,JJB,70,JJ,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JJ/JJB/,redatserv
-Research Department of Cancer Biology,CB,65,G4,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G4A/G4/CB/,cbio
-Research Department of General Surgery,GS,65,G2,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G2/GS/,surgery
-Research Department of Haematology,GK,65,G4,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G4A/G4/GK/,haem
-Research Department of Immunology,GC,65,G1,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G1/GC/,immunology
-Research Department of Infection,GB,65,G1,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G1/GB/,infection
-Research Department of Oncology,HD,65,G4,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G4A/G4/HD/,oncology
-Research Department of Open Learning,HAOB,65,HAO,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/HAO/HAOB/,rdofol
-Research Department of Pathology,GA,65,G4,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G4A/G4/GA/,pathology
-Research Department of Urology,RU,65,G2,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G2/RU/,rdurology
-Research IT Services,JJ,60,JEISD,40,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JJ/,resitserv
-Research Services,LDD,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDD/,resserv
-Resources,LKOB,80,LKO,70,LK,Development and Alumni Relations,/UCL/PROV/VPA/LK/LKO/LKOB/,devres
-Restorative Dental Sciences,ID8,65,ID,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/ID/ID8/,rds
-Royal Free Facilities & General Support,HAL,65,HA,60,,,/UCL/PROV/SLIMEDSC/HA/HAL/,hamfacgens
-SELCS,AA,50,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AA/,sofeucs
-SHS Faculty Office,SA,60,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SA/,shsfacoff
-SIW,SIW,10, , ,,,/SIW/,siw
-SLMS Finance,HAA,65,HA,60,,,/UCL/PROV/SLIMEDSC/HA/HAA/,msaacc
-SLMS Planning and Performance Unit,HA,60,SLIMEDSC,35,,,/UCL/PROV/SLIMEDSC/HA/,medschad
-SLMS Research Support Centre,G7,65,HA,60,,,/UCL/PROV/SLIMEDSC/HA/G7/,divofrshst
-STEaPP,EP,60,ENG,40,ENG,Faculty of Engineering Science,/UCL/PROV/SCHSCI/ENG/EP/,steapp
-Safety Services,LCF,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCF/,safety
-Satellite Estates Services,LCK,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/LCK/,satestserv
-Sch of Slavonic & East European Studies,VS,60,SARSOSC,35,,,/UCL/PROV/SARSOSC/VS/,ssees
-Schafer House,TCG,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCG/,schafer
-School Finance - Arts & Social Sciences,LDF,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDF/,slashfin
-School Finance - BEAMS,LDG,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDG/,beamsfin
-School Finance - Life & Medical Sciences,LDH,70,LD,60,LD,Finance & Business Affairs,/UCL/PROV/VPA/LD/LDH/,slmsfin
-School of Arts & Social Sciences,SARSOSC,35,PROV,20,,,/UCL/PROV/SARSOSC/,scharsosci
-"School of European Langs, Admin Office",AB,70,AA,50,,,/UCL/PROV/SARSOSC/ARTS/AA/AB/,sofelao
-School of Life & Medical Sciences,SLIMEDSC,35,PROV,20,,,/UCL/PROV/SLIMEDSC/,schlimedsc
-School of Sciences,SCHSCI,35,PROV,20,,,/UCL/PROV/SCHSCI/,schsci
-Security,LCE,80,LCCA,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCCA/LCE/,security
-Shenley Pavilion,XUH2,80,XUH,70,,,/UCL/PROV/VPA/XU/XUH/XUH2/,unionshep
-Shenley Sports Grounds,XUH1,80,XUH,70,,,/UCL/PROV/VPA/XU/XUH/XUH1/,unionsheg
-Social & Economic Res on the Global Env,SEA,70,SE,60,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/SE/SEA/,cserge
-Soft Services,LCCAD,80,LCCA,70,LC,Estates Division,/UCL/PROV/VPA/LC/LCCA/LCCAD/,cleaning
-Somers Town Community Sports Centre,XUH3,80,XUH,70,,,/UCL/PROV/VPA/XU/XUH/XUH3/,unionsom
-"Speech, Hearing & Phonetic Sciences",SHPS,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/SHPS/,sphrphosci
-Stanmore Implants Worldwide,XS,60,VPEK,40,,,/UCL/PROV/VPE/VPEK/XS/,siw
-Structural & Molecular Biology,SMB,65,F1,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/SMB/,strcmolbio
-Student Accommodation,TC,70,LC,60,LC,Estates Division,/UCL/PROV/VPA/LC/TC/,residence
-Student Administration,RK,70,RDIV,60,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RK/,studtadmin
-Student Advisory and Events Services,RKC,80,RS,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RS/RKC/,gradceres
-Student Data Services,RPB,80,RP,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RP/RPB/,mgmtinfo
-Student Disability Services,RI,80,RS,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RS/RI/,disctr
-Student Funding,RNB,80,RK,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RK/RNB/,finsupport
-Student Psychological Services,TB,80,RS,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RS/TB/,counsell
-Student Records and Research Degrees,RKD,80,RK,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RK/RKD/,studrec
-Student Support and Wellbeing,RS,70,RDIV,60,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RS/,studsup
-Student and Registry Services,RDIV,60,VPA,30,,,/UCL/PROV/VPA/RDIV/,registry
-Survey of English Usage,AGU,70,AG,60,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AG/AGU/,engusage
-Technology Services,JI,60,JEISD,40,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JI/,techserv
-The Bartlett Sch of Const & Proj Mgmnt,BC,60,BS,50,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BS/BC/,cpmgmnt
-The Bartlett School,BS,50,BEF,40,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BS/,bartlett
-The Bartlett School of Architecture,BA,60,BS,50,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BS/BA/,architect
-The Bartlett School of Graduate Studies,BG,60,BS,50,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BS/BG/,gradstud
-The Bartlett School of Planning,BP,60,BS,50,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BS/BP/,planning
-The Bentham Project,SH,60,DLAWS,40,DLAWS,Faculty of Laws,/UCL/PROV/SARSOSC/DLAWS/SH/,bentham
-The Ear Institute,HP,50,FBRS,40,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/HP/,earinst
-The Huntley,XUA1D,90,XUA1,80,,,/UCL/PROV/VPA/XU/XUA/XUA1/XUA1D/,unionhbar
-The Royal Institution of Great Britain,RIGB,10, , ,,,/RIGB/,rigb
-The Sainsbury Wellcome Centre,SWC,50,FLS,40,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/SWC/,sainswc
-The Slade School of Fine Art,AH,60,ARTS,40,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AH/,theslade
-Trade Union Office,TRAD,70,UCLEXT,10,,,/UCLEXT/TRAD/,trad
-Translation Studies,AAU,70,AA,50,ARTS,Faculty of Arts & Humanities,/UCL/PROV/SARSOSC/ARTS/AA/AAU/,transtud
-Translational Research Office,G7D,70,G7,65,,,/UCL/PROV/SLIMEDSC/HA/G7/G7D/,transroff
-UCL - Qatar,QA,60,VPI,30,,VP: International,/UCL/PROV/VPI/QA/,uclq
-UCL Advances - Ctr for Entrepreneurship,EK,60,VPE,30,,VP: Enterprise,/UCL/PROV/VPE/EK/,ucladvan
-UCL Australia,ENGAU,60,VPI,30,,,/UCL/PROV/VPI/ENGAU/,uclaus
-UCL BioMedica plc,XB,60,VPEK,40,,,/UCL/PROV/VPE/VPEK/XB/,biomedica
-UCL Business PLC,VB,60,VPEK,40,,,/UCL/PROV/VPE/VPEK/VB/,uclbus
-UCL Centre for the History of Medicine,FBB,65,F1,50,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/FBB/,histmed
-UCL Energy Institute,BGA,60,BEF,40,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BGA/,energinst
-UCL Environment Institute,EI,62,SHS,40,SHS,Faculty of Social & Historical Sciences,/UCL/PROV/SARSOSC/SHS/EI/,envinst
-UCL Genetics Institute,UGI,70,GEE,65,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/F1/GEE/UGI/,uclgeninst
-UCL Interaction Centre,FGC,65,F2,50,FBRS,Faculty of Brain Sciences,/UCL/PROV/SLIMEDSC/FBRS/F2/FGC/,uclic
-UCL Medical School,HAO,50,GHCSCI,40,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/HAO/,medicaled
-UCL Partners,UCLP,70,UCLEXT,10,,,/UCLEXT/UCLP/,uclp
-UCL School of Pharmacy,PS,50,FLS,40,FLS,Faculty of Life Sciences,/UCL/PROV/SLIMEDSC/FLS/PS/,schofphar
-UCL Union - Sport & Recreation,XUH,70,XU,60,,,/UCL/PROV/VPA/XU/XUH/,unionsport
-UCL-NU School of Engineering Partnership,NU,60,VPI,30,,,/UCL/PROV/VPI/NU/,uclnu
-UCLU,XU,60,VPA,30,,,/UCL/PROV/VPA/XU/,uclunion
-UCLU - Administration & HR,XUD,70,XU,60,,,/UCL/PROV/VPA/XU/XUD/,uniongen
-UCLU - Commercial Services,XUA,70,XU,60,,,/UCL/PROV/VPA/XU/XUA/,unionbars
-UCLU - Finance,XUC,70,XU,60,,,/UCL/PROV/VPA/XU/XUC/,unionfin
-UCLU - Marketing & Communications,XUF,70,XU,60,,,/UCL/PROV/VPA/XU/XUF/,unionprom
-UCLU - Membership Services,XUI,70,XU,60,,,/UCL/PROV/VPA/XU/XUI/,unionadvic
-UCLU - Sabbatical,XUG,70,XU,60,,,/UCL/PROV/VPA/XU/XUG/,unionsab
-Union Shops,XUA3,80,XUA,70,,,/UCL/PROV/VPA/XU/XUA/XUA3/,unionshp
-University College London,UCL,10, , ,,,/UCL/,ucl
-UrbanBuzz,BE,70,BEF,40,BEF,Faculty of the Built Environment,/UCL/PROV/SCHSCI/BEF/BE/,urbanb
-VP: Education,VPED,30,PROV,20,,VP: Education,/UCL/PROV/VPED/,vpedu
-VP: Enterprise,VPE,30,PROV,20,,VP: Enterprise,/UCL/PROV/VPE/,vpent
-VP: Health,VPH,30,PROV,20,,VP: Health,/UCL/PROV/VPH/,vphlth
-VP: International,VPI,30,PROV,20,,VP: International,/UCL/PROV/VPI/,vpint
-VP: Research,VPR,30,PROV,20,,VP: Research,/UCL/PROV/VPR/,vpres
-VP: Special Projects,VPS,30,PROV,20,,VP: Special Projects,/UCL/PROV/VPS/,vpspr
-Vascular Physiology,ICS5B,80,ICS5,70,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/ICS/ICS5/ICS5B/,vascphys
-Vertical Module Tutors (VM),HAU,65,HAO,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/HAO/HAU/,pdst
-Volunteering Services Unit,XUI4,80,XUI,70,,,/UCL/PROV/VPA/XU/XUI/XUI4/,unionvsu
-WP and UK Undergraduate Recruitment,RJD,80,RJ,70,RDIV,Student and Registry Services,/UCL/PROV/VPA/RDIV/RJ/RJD/,schsliais
-Web & Mobile Services,JMC,70,JM,60,JEISD,Information Services Division,/UCL/PROV/VPA/JEISD/JM/JMC/,wmserv
-Whittington Facilities & General Support,HAP,65,HAO,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/HAO/HAP/,arfacgens
-Wilton Plaza Goldsmid House,TCK,80,TC,70,LC,Estates Division,/UCL/PROV/VPA/LC/TC/TCK/,wpghouse
-Wolfson Inst & Cancer Inst Admin,G4A,45,GHCSCI,40,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G4A/,wici
-Wolfson Inst for Biomedical Research,IW,65,G3,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/IW/,wibr
-Women's Cancer,GT,65,G5,50,FPHS,Faculty of Population Health Sciences,/UCL/PROV/SLIMEDSC/FPHS/G5/GT/,gynoncol
-Work Permit Applicants,XY,60,UCLEXT,10,,,/UCLEXT/XY/,workpermit
-lnstitute of Liver and Digestive Health,G3L,65,G3,50,GHCSCI,Faculty of Medical Sciences,/UCL/PROV/SLIMEDSC/GHCSCI/G3/G3L/,instofldh
-IoN Motor Neurosci & Mov Disorders,ING,,IN,,FBRS,Faculty of Brain Sciences,,
-"Bartlett School Env, Energy & Resources",BGA,,BEF,,BEF,Faculty of the Built Environment,,
-MRC/UCL Lab for Molecular Cell Bio,FK,,FLS,,FLS,Faculty of Life Sciences,,
-Metabolism & Experi Therapeutics,G3T,,G3,,GHCSCI,Faculty of Medical Sciences,,
-Research Department of Cancer Bio,CB,,G4,,GHCSCI,Faculty of Medical Sciences,,
-Div of Psychology & Lang Sciences,F2,,FBRS,,FBRS,Faculty of Brain Sciences,,
-"Dept of Civil, Environ &Geomatic Eng",EC,,ENG,,ENG,Faculty of Engineering Science,,
-"Clinical, Edu & Hlth Psychology",CEHP,,F2,,FBRS,Faculty of Brain Sciences,,
-ICH Genetics & Genomic Medicine Prog,ICH1,,IC,,FPHS,Faculty of Population Health Sciences,,
-Dept of Med Phys & Biomedical Eng,EA,,ENG,,ENG,Faculty of Engineering Science,,
-Institute of Health Informatics,HI,,FPHS,,FPHS,Faculty of Population Health Sciences,,
-Experimental Psychology,CPBS,65,F2,50,FBRS,Faculty of Brain Sciences,,
-Clinical Epidemiology,HIA,,HI,,FPHS,Faculty of Population Health Sciences,,
-"ICH Infect, Imm, Infla. & Physio Med",ICH3,,IC,,FPHS,Faculty of Population Health Sciences,,
-Respiratory Medicine,G3Q,,G3,,GHCSCI,Faculty of Medical Sciences,,
-"Neuro, Physiology & Pharmacology",NPP,,F1,,FLS,Faculty of Life Sciences,,
-RITS Res Comp & Facilitating Serv,JJA,,JJ,,JEISD,Information Services Division,,
-TS Network Services,JIE,,JI,,JEISD,Information Services Division,,
-ISD Service Strategy & Improvement Dept,JO,,JEISD,,JEISD,Information Services Division,,
-RITS Research Data Services,JJB,,JJ,,JEISD,Information Services Division,,
-TS Client Platform Services,JIB,,JI,,JEISD,Information Services Division,,
-"IOE - Education, Practice & Society",IEA7,,IEA,,IE,UCL Institute of Education,,
-RITS Research Application Services,JJC,,JJ,,JEISD,Information Services Division,,
-Clinical & Experimental Epilepsy,INC,,IN,,FBRS,Faculty of Brain Sciences,,
-IT for SLMS Population Health Sci,JEF,,JE,,JEISD,Information Services Division,,
-Language & Cognition,LCM,,F2,,FBRS,Faculty of Brain Sciences,,
-AS Research Applications - Ops,JKH,,JK,,JEISD,Information Services Division,,
-UCL School of Management,EM,,ENG,,ENG,Faculty of Engineering Science,,
-AS Learning & Teaching Applications,JKF,,JK,,JEISD,Information Services Division,,
-Cancer Institute,G4,,GHCSCI,,GHCSCI,Faculty of Medical Sciences,,
-Centre for Advanced Spatial Analysis,SC,,BEF,,BEF,Faculty of the Built Environment,,
-LTMS Web & Mobile Services,JMC,,JM,,JEISD,Information Services Division,,
-Dept of English Lang & Literature,AG,,ARTS,,ARTS,Faculty of Arts & Humanities,,
-IT IoE IT for Social & Historical Sci,JRC,,JR,,JEISD,Information Services Division,,
-TS Datacentre Services,JIC,,JI,,JEISD,Information Services Division,,
-Faculty of Pop Health Sciences,FPHS,,SLIMEDSC,,FPHS,Faculty of Pop Health Sciences,,
+Level,7,7,6,6,5,5,4 (Faculty),4,3 (School),3,2,2,1,1
+1, External Organisations affiliated to UCL ,UCLEXT, External Organisations affiliated to UCL ,UCLEXT, External Organisations affiliated to UCL ,UCLEXT, External Organisations affiliated to UCL ,UCLEXT, External Organisations affiliated to UCL ,UCLEXT, External Organisations affiliated to UCL ,UCLEXT, External Organisations affiliated to UCL ,UCLEXT
+2, Intercollegiate Department ,ICOLL, Intercollegiate Department ,ICOLL, Intercollegiate Department ,ICOLL, Intercollegiate Department ,ICOLL, Intercollegiate Department ,ICOLL, Intercollegiate Department ,ICOLL, External Organisations affiliated to UCL ,UCLEXT
+2, Trade Union Office ,TRAD, Trade Union Office ,TRAD, Trade Union Office ,TRAD, Trade Union Office ,TRAD, Trade Union Office ,TRAD, Trade Union Office ,TRAD, External Organisations affiliated to UCL ,UCLEXT
+2, UCL Partners ,UCLP, UCL Partners ,UCLP, UCL Partners ,UCLP, UCL Partners ,UCLP, UCL Partners ,UCLP, UCL Partners ,UCLP, External Organisations affiliated to UCL ,UCLEXT
+2, Work Permit Applicants ,XY, Work Permit Applicants ,XY, Work Permit Applicants ,XY, Work Permit Applicants ,XY, Work Permit Applicants ,XY, Work Permit Applicants ,XY, External Organisations affiliated to UCL ,UCLEXT
+1, University College London ,UCL, University College London ,UCL, University College London ,UCL, University College London ,UCL, University College London ,UCL, University College London ,UCL, University College London ,UCL
+2, Ex-Gratia Pensioners ,XPEN, Ex-Gratia Pensioners ,XPEN, Ex-Gratia Pensioners ,XPEN, Ex-Gratia Pensioners ,XPEN, Ex-Gratia Pensioners ,XPEN, Ex-Gratia Pensioners ,XPEN, University College London ,UCL
+2, Office of the President & Provost ,PROV, Office of the President & Provost ,PROV, Office of the President & Provost ,PROV, Office of the President & Provost ,PROV, Office of the President & Provost ,PROV, Office of the President & Provost ,PROV, University College London ,UCL
+3, Casuals - As & When Payments ,XCAS, Casuals - As & When Payments ,XCAS, Casuals - As & When Payments ,XCAS, Casuals - As & When Payments ,XCAS, Casuals - As & When Payments ,XCAS, Office of the President & Provost ,PROV, University College London ,UCL
+3, Professional Services ,VPA, Professional Services ,VPA, Professional Services ,VPA, Professional Services ,VPA, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Academic Staff Common Room ,AC, Academic Staff Common Room ,AC, Academic Staff Common Room ,AC, Academic Staff Common Room ,AC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Biological Services ,VZ, Biological Services ,VZ, Biological Services ,VZ, Biological Services ,VZ, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Careers Service ,TA, Careers Service ,TA, Careers Service ,TA, Careers Service ,TA, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Communications & Marketing ,LKC, Communications & Marketing ,LKC, Communications & Marketing ,LKC, Communications & Marketing ,LKC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Communications ,LKCC, Communications ,LKCC, Communications ,LKCC, Communications & Marketing ,LKC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Events ,LKOE, Events ,LKOE, Events ,LKOE, Communications & Marketing ,LKC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Media Relations ,LKCM, Media Relations ,LKCM, Media Relations ,LKCM, Communications & Marketing ,LKC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Publications and Marketing Services ,RJE, Publications and Marketing Services ,RJE, Publications and Marketing Services ,RJE, Communications & Marketing ,LKC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Student Recruitment Marketing ,RJC, Student Recruitment Marketing ,RJC, Student Recruitment Marketing ,RJC, Communications & Marketing ,LKC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Development and Alumni Relations ,LK, Development and Alumni Relations ,LK, Development and Alumni Relations ,LK, Development and Alumni Relations ,LK, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Directors Office ,LKD, Directors Office ,LKD, Directors Office ,LKD, Development and Alumni Relations ,LK, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Operations ,LKO, Operations ,LKO, Operations ,LKO, Development and Alumni Relations ,LK, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Estates Division ,LC, Estates Division ,LC, Estates Division ,LC, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Estates Portfolio and Business Services ,LCK, Estates Portfolio and Business Services ,LCK, Estates Portfolio and Business Services ,LCK, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Customer & Room Bookings Services ,LCCAA, Customer & Room Bookings Services ,LCCAA, Estates Portfolio and Business Services ,LCK, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Estates Business Services ,LCA, Estates Business Services ,LCA, Estates Portfolio and Business Services ,LCK, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Estates Communications ,LCKA, Estates Communications ,LCKA, Estates Portfolio and Business Services ,LCK, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Portfolio Services Office ,LCKB, Portfolio Services Office ,LCKB, Estates Portfolio and Business Services ,LCK, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Estates Strategy & Programme Delivery ,LCB, Estates Strategy & Programme Delivery ,LCB, Estates Strategy & Programme Delivery ,LCB, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Estates Strategy ,LCH, Estates Strategy ,LCH, Estates Strategy & Programme Delivery ,LCB, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Programme Delivery ,LCBA, Programme Delivery ,LCBA, Estates Strategy & Programme Delivery ,LCB, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Facilities and Infrastructure ,LCCA, Facilities and Infrastructure ,LCCA, Facilities and Infrastructure ,LCCA, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Day Nursery ,RD, Day Nursery ,RD, Facilities and Infrastructure ,LCCA, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Engineering Maintenance & Infrastructure ,LCCB, Engineering Maintenance & Infrastructure ,LCCB, Facilities and Infrastructure ,LCCA, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Facilities ,LCCAD, Facilities ,LCCAD, Facilities and Infrastructure ,LCCA, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Mail Services ,LCCAC, Mail Services ,LCCAC, Facilities and Infrastructure ,LCCA, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Maintenance Operations ,LCCC, Maintenance Operations ,LCCC, Facilities and Infrastructure ,LCCA, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Security ,LCE, Security ,LCE, Facilities and Infrastructure ,LCCA, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, UCL Shop ,LCCAF, UCL Shop ,LCCAF, Facilities and Infrastructure ,LCCA, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Property & Accommodation ,LCKI, Property & Accommodation ,LCKI, Property & Accommodation ,LCKI, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Property ,LCI, Property ,LCI, Property & Accommodation ,LCKI, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Student Accommodation ,TC, Student Accommodation ,TC, Property & Accommodation ,LCKI, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Sustainability ,LCKK, Sustainability ,LCKK, Sustainability ,LCKK, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6," Construction, Maintenance & Fire Safety",LCCD," Construction, Maintenance & Fire Safety",LCCD, Sustainability ,LCKK, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Environmental Sustainability ,LCJ, Environmental Sustainability ,LCJ, Sustainability ,LCKK, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Safety Services ,LCF, Safety Services ,LCF, Sustainability ,LCKK, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCL East ,LCKJ, UCL East ,LCKJ, UCL East ,LCKJ, Estates Division ,LC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Finance & Business Affairs ,LD, Finance & Business Affairs ,LD, Finance & Business Affairs ,LD, Finance & Business Affairs ,LD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Financial Control & Analysis ,LDL, Financial Control & Analysis ,LDL, Financial Control & Analysis ,LDL, Finance & Business Affairs ,LD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Financial Accounting ,LDA, Financial Accounting ,LDA, Financial Control & Analysis ,LDL, Finance & Business Affairs ,LD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Financial Analysis & Reporting ,LDC, Financial Analysis & Reporting ,LDC, Financial Control & Analysis ,LDL, Finance & Business Affairs ,LD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Professional Services Finance ,LDI, Professional Services Finance ,LDI, Financial Control & Analysis ,LDL, Finance & Business Affairs ,LD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Legal Services ,LDJ, Legal Services ,LDJ, Legal Services ,LDJ, Finance & Business Affairs ,LD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Office for International Affairs ,LDK, Office for International Affairs ,LDK, Office for International Affairs ,LDK, Finance & Business Affairs ,LD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Procurement Services ,LCD, Procurement Services ,LCD, Procurement Services ,LCD, Finance & Business Affairs ,LD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Research Services ,LDD, Research Services ,LDD, Research Services ,LDD, Finance & Business Affairs ,LD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Euro Research and Innovation Office ,LDE, Euro Research and Innovation Office ,LDE, Research Services ,LDD, Finance & Business Affairs ,LD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, School Finance - Arts & Social Sciences ,LDF, School Finance - Arts & Social Sciences ,LDF, School Finance - Arts & Social Sciences ,LDF, Finance & Business Affairs ,LD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, School Finance - BEAMS ,LDG, School Finance - BEAMS ,LDG, School Finance - BEAMS ,LDG, Finance & Business Affairs ,LD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, School Finance - IOE ,LDM, School Finance - IOE ,LDM, School Finance - IOE ,LDM, Finance & Business Affairs ,LD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, School Finance - Life & Medical Sciences ,LDH, School Finance - Life & Medical Sciences ,LDH, School Finance - Life & Medical Sciences ,LDH, Finance & Business Affairs ,LD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Human Resources Division ,LH, Human Resources Division ,LH, Human Resources Division ,LH, Human Resources Division ,LH, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, HR Advisory Services ,LHB, HR Advisory Services ,LHB, HR Advisory Services ,LHB, Human Resources Division ,LH, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, HR Strategy and Planning ,LHC, HR Strategy and Planning ,LHC, HR Strategy and Planning ,LHC, Human Resources Division ,LH, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Employment Policy and Governance ,LHDE, Employment Policy and Governance ,LHDE, HR Strategy and Planning ,LHC, Human Resources Division ,LH, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, HR Systems and Business Process ,LHDC, HR Systems and Business Process ,LHDC, HR Strategy and Planning ,LHC, Human Resources Division ,LH, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Reward Policy ,LHDD, Reward Policy ,LHDD, HR Strategy and Planning ,LHC, Human Resources Division ,LH, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Workforce Reporting and Analytics ,LHDB, Workforce Reporting and Analytics ,LHDB, HR Strategy and Planning ,LHC, Human Resources Division ,LH, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Human Resources Director's Office ,LHA, Human Resources Director's Office ,LHA, Human Resources Director's Office ,LHA, Human Resources Division ,LH, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Occupational Health and Wellbeing ,LHF, Occupational Health and Wellbeing ,LHF, Occupational Health and Wellbeing ,LHF, Human Resources Division ,LH, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Organisational Development ,LHG, Organisational Development ,LHG, Organisational Development ,LHG, Human Resources Division ,LH, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Equalities and Diversity ,LHGA, Equalities and Diversity ,LHGA, Organisational Development ,LHG, Human Resources Division ,LH, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Payroll & Pension Services ,LHE, Payroll & Pension Services ,LHE, Payroll & Pension Services ,LHE, Human Resources Division ,LH, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Employment Contract Administration (ECA),LHDA, Employment Contract Administration (ECA),LHDA, Payroll & Pension Services ,LHE, Human Resources Division ,LH, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Information Services Division ,JEISD, Information Services Division ,JEISD, Information Services Division ,JEISD, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, ISD Application Services ,JK, ISD Application Services ,JK, ISD Application Services ,JK, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, AS Application Development ,JKA, AS Application Development ,JKA, ISD Application Services ,JK, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, AS Common & Infrastructure App ,JKB, AS Common & Infrastructure App ,JKB, ISD Application Services ,JK, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, AS Database Tech & Architecture ,JKC, AS Database Tech & Architecture ,JKC, ISD Application Services ,JK, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, AS Departmental Admin Applications ,JKD, AS Departmental Admin Applications ,JKD, ISD Application Services ,JK, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, AS Enterprise Admin Applications ,JKE, AS Enterprise Admin Applications ,JKE, ISD Application Services ,JK, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, AS Finance Applications ,JKI, AS Finance Applications ,JKI, ISD Application Services ,JK, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, AS Learning & Teaching Applications ,JKF, AS Learning & Teaching Applications ,JKF, ISD Application Services ,JK, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, AS Research Applications - Ops ,JKH, AS Research Applications - Ops ,JKH, ISD Application Services ,JK, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, ISD Directors Office ,JQ, ISD Directors Office ,JQ, ISD Directors Office ,JQ, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, ISD Divisional Office ,JLA, ISD Divisional Office ,JLA, ISD Directors Office ,JQ, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, ISD Information Security ,JID, ISD Information Security ,JID, ISD Directors Office ,JQ, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, ISD IT Change & Proj Delivery Serv ,JL, ISD IT Change & Proj Delivery Serv ,JL, ISD IT Change & Proj Delivery Serv ,JL, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, ITCPD Business Change Services ,JLB, ITCPD Business Change Services ,JLB, ISD IT Change & Proj Delivery Serv ,JL, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, ITCPD IT Portfolio Management Serv ,JLC, ITCPD IT Portfolio Management Serv ,JLC, ISD IT Change & Proj Delivery Serv ,JL, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, ITCPD Project Delivery Services ,JLE, ITCPD Project Delivery Services ,JLE, ISD IT Change & Proj Delivery Serv ,JL, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, ITCPD Project Support Services ,JLG, ITCPD Project Support Services ,JLG, ISD IT Change & Proj Delivery Serv ,JL, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, ITCPD Quality Management Services ,JLD, ITCPD Quality Management Services ,JLD, ISD IT Change & Proj Delivery Serv ,JL, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, ISD IT for IOE & Humanities ,JR, ISD IT for IOE & Humanities ,JR, ISD IT for IOE & Humanities ,JR, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, IT IoE IT for Arts & Humanities ,JRB, IT IoE IT for Arts & Humanities ,JRB, ISD IT for IOE & Humanities ,JR, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, IT IoE IT for IOE ,JRA, IT IoE IT for IOE ,JRA, ISD IT for IOE & Humanities ,JR, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, IT IoE IT for Social & Historical Sci ,JRC, IT IoE IT for Social & Historical Sci ,JRC, ISD IT for IOE & Humanities ,JR, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, ISD IT for Professional Services ,JN, ISD IT for Professional Services ,JN, ISD IT for Professional Services ,JN, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, ISD IT for SLMS ,JE, ISD IT for SLMS ,JE, ISD IT for SLMS ,JE, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, IT For SLMS Infrastructure ,JEB, IT For SLMS Infrastructure ,JEB, ISD IT for SLMS ,JE, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, IT For SLMS Medical Sciences ,JEG, IT For SLMS Medical Sciences ,JEG, ISD IT for SLMS ,JE, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, IT For SLMS Research and Education ,JEC, IT For SLMS Research and Education ,JEC, ISD IT for SLMS ,JE, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, IT for SLMS Brain Sciences ,JEE, IT for SLMS Brain Sciences ,JEE, ISD IT for SLMS ,JE, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, IT for SLMS Director's Office ,JEA, IT for SLMS Director's Office ,JEA, ISD IT for SLMS ,JE, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, IT for SLMS Life Sciences ,JEH, IT for SLMS Life Sciences ,JEH, ISD IT for SLMS ,JE, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, IT for SLMS Medical Illustration ,JED, IT for SLMS Medical Illustration ,JED, ISD IT for SLMS ,JE, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, IT for SLMS Population Health Sci ,JEF, IT for SLMS Population Health Sci ,JEF, ISD IT for SLMS ,JE, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, ISD Learning Technology & Media Serv ,JM, ISD Learning Technology & Media Serv ,JM, ISD Learning Technology & Media Serv ,JM, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, LTMS Creative Media Services ,JMB, LTMS Creative Media Services ,JMB, ISD Learning Technology & Media Serv ,JM, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, LTMS Web & Mobile Services ,JMC, LTMS Web & Mobile Services ,JMC, ISD Learning Technology & Media Serv ,JM, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, LTMS eLearning Environments ,JMA, LTMS eLearning Environments ,JMA, ISD Learning Technology & Media Serv ,JM, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, ISD Projects ,JP, ISD Projects ,JP, ISD Projects ,JP, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, ISD Research IT Services ,JJ, ISD Research IT Services ,JJ, ISD Research IT Services ,JJ, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, RITS Res Comp & Facilitating Serv ,JJA, RITS Res Comp & Facilitating Serv ,JJA, ISD Research IT Services ,JJ, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, RITS Research Application Services ,JJC, RITS Research Application Services ,JJC, ISD Research IT Services ,JJ, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, RITS Research Data Services ,JJB, RITS Research Data Services ,JJB, ISD Research IT Services ,JJ, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, ISD Service Strategy & Improvement Dept ,JO, ISD Service Strategy & Improvement Dept ,JO, ISD Service Strategy & Improvement Dept ,JO, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, ISD Technology Services ,JI, ISD Technology Services ,JI, ISD Technology Services ,JI, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, TS Central Ops Serv & Cust Relations ,JIA, TS Central Ops Serv & Cust Relations ,JIA, ISD Technology Services ,JI, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, TS Client Platform Services ,JIB, TS Client Platform Services ,JIB, ISD Technology Services ,JI, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, TS Datacentre Services ,JIC, TS Datacentre Services ,JIC, ISD Technology Services ,JI, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, TS Network Services ,JIE, TS Network Services ,JIE, ISD Technology Services ,JI, Information Services Division ,JEISD, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Library Services ,VL, Library Services ,VL, Library Services ,VL, Library Services ,VL, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Main & Science Libraries ,VLL, Main & Science Libraries ,VLL, Main & Science Libraries ,VLL, Library Services ,VL, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Planning Division ,PA, Planning Division ,PA, Planning Division ,PA, Planning Division ,PA, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Student and Registry Services ,RDIV, Student and Registry Services ,RDIV, Student and Registry Services ,RDIV, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Academic Services ,LJ, Academic Services ,LJ, Academic Services ,LJ, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Access and Admissions ,RJ, Access and Admissions ,RJ, Access and Admissions ,RJ, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Admissions ,RJB, Admissions ,RJB, Access and Admissions ,RJ, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, WP and UK Undergraduate Recruitment ,RJD, WP and UK Undergraduate Recruitment ,RJD, Access and Admissions ,RJ, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Information and Data Services ,RP, Information and Data Services ,RP, Information and Data Services ,RP, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Portico Services ,RPC, Portico Services ,RPC, Information and Data Services ,RP, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Student Data Services ,RPB, Student Data Services ,RPB, Information and Data Services ,RP, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Registrar's Office ,RB, Registrar's Office ,RB, Registrar's Office ,RB, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Student Administration ,RK, Student Administration ,RK, Student Administration ,RK, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Assessment and Student Records ,RKF, Assessment and Student Records ,RKF, Student Administration ,RK, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Examinations ,RKB, Examinations ,RKB, Student Administration ,RK, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Student Funding ,RNB, Student Funding ,RNB, Student Administration ,RK, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Student Records and Research Degrees ,RKD, Student Records and Research Degrees ,RKD, Student Administration ,RK, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Student Support and Wellbeing ,RS, Student Support and Wellbeing ,RS, Student Support and Wellbeing ,RS, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Student Advisory and Events Services ,RKC, Student Advisory and Events Services ,RKC, Student Support and Wellbeing ,RS, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Student Disability Services ,RI, Student Disability Services ,RI, Student Support and Wellbeing ,RS, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Student Psychological Services ,TB, Student Psychological Services ,TB, Student Support and Wellbeing ,RS, Student and Registry Services ,RDIV, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+4, UCL Public and Cultural Engagement ,VC, UCL Public and Cultural Engagement ,VC, UCL Public and Cultural Engagement ,VC, UCL Public and Cultural Engagement ,VC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Bloomsbury Theatre ,VT, Bloomsbury Theatre ,VT, Bloomsbury Theatre ,VT, UCL Public and Cultural Engagement ,VC, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+4, UCLU ,XU, UCLU ,XU, UCLU ,XU, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCL Union - Sport & Recreation ,XUH, UCL Union - Sport & Recreation ,XUH, UCL Union - Sport & Recreation ,XUH, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Shenley Pavilion ,XUH2, Shenley Pavilion ,XUH2, UCL Union - Sport & Recreation ,XUH, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Shenley Sports Grounds ,XUH1, Shenley Sports Grounds ,XUH1, UCL Union - Sport & Recreation ,XUH, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Somers Town Community Sports Centre ,XUH3, Somers Town Community Sports Centre ,XUH3, UCL Union - Sport & Recreation ,XUH, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCLU - Administration & HR ,XUD, UCLU - Administration & HR ,XUD, UCLU - Administration & HR ,XUD, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCLU - Commercial Services ,XUA, UCLU - Commercial Services ,XUA, UCLU - Commercial Services ,XUA, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Bloomsbury Fitness Centre ,XUA2, Bloomsbury Fitness Centre ,XUA2, UCLU - Commercial Services ,XUA, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Events ,XUA4, Events ,XUA4, UCLU - Commercial Services ,XUA, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Food & Beverage ,XUA1, Food & Beverage ,XUA1, UCLU - Commercial Services ,XUA, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+7, Bloomsbury Cafe ,XUA1B, Food & Beverage ,XUA1, UCLU - Commercial Services ,XUA, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+7, George Farha Cafe Bar ,XUA1C, Food & Beverage ,XUA1, UCLU - Commercial Services ,XUA, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+7, Gordon Street Bar ,XUA1E, Food & Beverage ,XUA1, UCLU - Commercial Services ,XUA, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+7, Gordon's Cafe ,XUA1A, Food & Beverage ,XUA1, UCLU - Commercial Services ,XUA, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+7, Print Room Cafe/Bar ,XUA1F, Food & Beverage ,XUA1, UCLU - Commercial Services ,XUA, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+7, The Huntley ,XUA1D, Food & Beverage ,XUA1, UCLU - Commercial Services ,XUA, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Union Shops ,XUA3, Union Shops ,XUA3, UCLU - Commercial Services ,XUA, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCLU - Finance ,XUC, UCLU - Finance ,XUC, UCLU - Finance ,XUC, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCLU - Marketing & Communications ,XUF, UCLU - Marketing & Communications ,XUF, UCLU - Marketing & Communications ,XUF, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCLU - Membership Services ,XUI, UCLU - Membership Services ,XUI, UCLU - Membership Services ,XUI, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Activities & Skills ,XUI3, Activities & Skills ,XUI3, UCLU - Membership Services ,XUI, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Advice & Welfare ,XUI1, Advice & Welfare ,XUI1, UCLU - Membership Services ,XUI, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Representation & Campaigns ,XUI2, Representation & Campaigns ,XUI2, UCLU - Membership Services ,XUI, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+6, Volunteering Services Unit ,XUI4, Volunteering Services Unit ,XUI4, UCLU - Membership Services ,XUI, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCLU - Sabbatical ,XUG, UCLU - Sabbatical ,XUG, UCLU - Sabbatical ,XUG, UCLU ,XU, Professional Services ,VPA, Office of the President & Provost ,PROV, University College London ,UCL
+3, School of Life & Medical Sciences ,SLIMEDSC, School of Life & Medical Sciences ,SLIMEDSC, School of Life & Medical Sciences ,SLIMEDSC, School of Life & Medical Sciences ,SLIMEDSC, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+4, Faculty of Brain Sciences ,FBRS, Faculty of Brain Sciences ,FBRS, Faculty of Brain Sciences ,FBRS, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Div of Psychology & Lang Sciences ,F2, Div of Psychology & Lang Sciences ,F2, Div of Psychology & Lang Sciences ,F2, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6," Clinical, Edu & Hlth Psychology",CEHP," Clinical, Edu & Hlth Psychology",CEHP, Div of Psychology & Lang Sciences ,F2, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Experimental Psychology ,CPBS, Experimental Psychology ,CPBS, Div of Psychology & Lang Sciences ,F2, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Institute of Cognitive Neuroscience ,FGB, Institute of Cognitive Neuroscience ,FGB, Div of Psychology & Lang Sciences ,F2, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Language & Cognition ,LCM, Language & Cognition ,LCM, Div of Psychology & Lang Sciences ,F2, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Linguistics ,LGI, Linguistics ,LGI, Div of Psychology & Lang Sciences ,F2, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6," Speech, Hearing & Phonetic Sciences",SHPS," Speech, Hearing & Phonetic Sciences",SHPS, Div of Psychology & Lang Sciences ,F2, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, UCL Interaction Centre ,FGC, UCL Interaction Centre ,FGC, Div of Psychology & Lang Sciences ,F2, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Division of Psychiatry ,GR, Division of Psychiatry ,GR, Division of Psychiatry ,GR, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Institute of Neurology ,IN, Institute of Neurology ,IN, Institute of Neurology ,IN, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Brain Repair & Rehabilitation ,IND, Brain Repair & Rehabilitation ,IND, Institute of Neurology ,IN, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Clinical & Experimental Epilepsy ,INC, Clinical & Experimental Epilepsy ,INC, Institute of Neurology ,IN, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Clinical Neuroscience ,HF, Clinical Neuroscience ,HF, Institute of Neurology ,IN, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Imaging Neuroscience ,INE, Imaging Neuroscience ,INE, Institute of Neurology ,IN, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, IoN - Audio-Visual Centre ,INAC, IoN - Audio-Visual Centre ,INAC, Institute of Neurology ,IN, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, IoN - Neuroinflammation ,INI, IoN - Neuroinflammation ,INI, Institute of Neurology ,IN, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, IoN Administration ,INA, IoN Administration ,INA, Institute of Neurology ,IN, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, IoN Computer Unit ,INAD, IoN Computer Unit ,INAD, Institute of Neurology ,IN, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, IoN Library ,INAA, IoN Library ,INAA, Institute of Neurology ,IN, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, IoN Motor Neurosci & Mov Disorders ,ING, IoN Motor Neurosci & Mov Disorders ,ING, Institute of Neurology ,IN, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, IoN RLW Inst of Neurological Sci ,HM, IoN RLW Inst of Neurological Sci ,HM, Institute of Neurology ,IN, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Molecular Neuroscience ,INF, Molecular Neuroscience ,INF, Institute of Neurology ,IN, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Neurodegenerative Diseases ,INH, Neurodegenerative Diseases ,INH, Institute of Neurology ,IN, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Institute of Ophthalmology ,IO, Institute of Ophthalmology ,IO, Institute of Ophthalmology ,IO, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Inst Ophthalmology - Cell Biology ,IOD, Inst Ophthalmology - Cell Biology ,IOD, Institute of Ophthalmology ,IO, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Inst Ophthalmology - EM Unit/Imaging SRF ,IOP, Inst Ophthalmology - EM Unit/Imaging SRF ,IOP, Institute of Ophthalmology ,IO, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Inst Ophthalmology - Genetics ,IOE, Inst Ophthalmology - Genetics ,IOE, Institute of Ophthalmology ,IO, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Inst Ophthalmology - Ocular Biology ,IOT, Inst Ophthalmology - Ocular Biology ,IOT, Institute of Ophthalmology ,IO, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Inst Ophthalmology - Scientific Workshop ,IOU, Inst Ophthalmology - Scientific Workshop ,IOU, Institute of Ophthalmology ,IO, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Inst Ophthalmology - Visual Neuroscience ,IOJ, Inst Ophthalmology - Visual Neuroscience ,IOJ, Institute of Ophthalmology ,IO, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, The Ear Institute ,HP, The Ear Institute ,HP, The Ear Institute ,HP, Faculty of Brain Sciences ,FBRS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+4, Faculty of Life Sciences ,FLS, Faculty of Life Sciences ,FLS, Faculty of Life Sciences ,FLS, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Cruciform Teaching Facilities Unit ,HAG, Cruciform Teaching Facilities Unit ,HAG, Cruciform Teaching Facilities Unit ,HAG, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Div of Biosciences ,F1, Div of Biosciences ,F1, Div of Biosciences ,F1, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Biosciences Dissecting Room ,FID, Biosciences Dissecting Room ,FID, Div of Biosciences ,F1, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Cell & Developmental Biology ,CDB, Cell & Developmental Biology ,CDB, Div of Biosciences ,F1, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6," Genetics, Evolution & Environment",GEE," Genetics, Evolution & Environment",GEE, Div of Biosciences ,F1, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6," Neuro, Physiology & Pharmacology",NPP," Neuro, Physiology & Pharmacology",NPP, Div of Biosciences ,F1, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Structural & Molecular Biology ,SMB, Structural & Molecular Biology ,SMB, Div of Biosciences ,F1, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, UCL Genetics Institute ,UGI, UCL Genetics Institute ,UGI, Div of Biosciences ,F1, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Gatsby Computational Neurosci Unit ,FA, Gatsby Computational Neurosci Unit ,FA, Gatsby Computational Neurosci Unit ,FA, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, MRC/UCL Lab for Molecular Cell Bio ,FK, MRC/UCL Lab for Molecular Cell Bio ,FK, MRC/UCL Lab for Molecular Cell Bio ,FK, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, The Sainsbury Wellcome Centre ,SWC, The Sainsbury Wellcome Centre ,SWC, The Sainsbury Wellcome Centre ,SWC, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCL School of Pharmacy ,PS, UCL School of Pharmacy ,PS, UCL School of Pharmacy ,PS, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Pharmaceutics ,PSA, Pharmaceutics ,PSA, UCL School of Pharmacy ,PS, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Pharmacology ,PSC, Pharmacology ,PSC, UCL School of Pharmacy ,PS, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Practice & Policy ,PSD, Practice & Policy ,PSD, UCL School of Pharmacy ,PS, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, SoP Pharmaceutical & Bio Chemistry ,PSB, SoP Pharmaceutical & Bio Chemistry ,PSB, UCL School of Pharmacy ,PS, Faculty of Life Sciences ,FLS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+4, Faculty of Medical Sciences ,GHCSCI, Faculty of Medical Sciences ,GHCSCI, Faculty of Medical Sciences ,GHCSCI, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Cancer Institute ,G4, Cancer Institute ,G4, Cancer Institute ,G4, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, CRUK Cancer Trials Centre ,HDB, CRUK Cancer Trials Centre ,HDB, Cancer Institute ,G4, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Research Department of Cancer Bio ,CB, Research Department of Cancer Bio ,CB, Cancer Institute ,G4, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Research Department of Haematology ,GK, Research Department of Haematology ,GK, Cancer Institute ,G4, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Research Department of Oncology ,HD, Research Department of Oncology ,HD, Cancer Institute ,G4, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Research Department of Pathology ,GA, Research Department of Pathology ,GA, Cancer Institute ,G4, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Div of Infection & Immunity ,G1, Div of Infection & Immunity ,G1, Div of Infection & Immunity ,G1, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Div of Medicine ,G3, Div of Medicine ,G3, Div of Medicine ,G3, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Inflammation ,G3I, Inflammation ,G3I, Div of Medicine ,G3, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Inst for Liver and Digestive Hlth ,G3L, Inst for Liver and Digestive Hlth ,G3L, Div of Medicine ,G3, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Internal Medicine ,G3M, Internal Medicine ,G3M, Div of Medicine ,G3, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Metabolism & Experi Therapeutics ,G3T, Metabolism & Experi Therapeutics ,G3T, Div of Medicine ,G3, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Nephrology ,G3P, Nephrology ,G3P, Div of Medicine ,G3, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Respiratory Medicine ,G3Q, Respiratory Medicine ,G3Q, Div of Medicine ,G3, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Wolfson Inst for Biomedical Research ,IW, Wolfson Inst for Biomedical Research ,IW, Div of Medicine ,G3, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Div of Surgery & Interventional Sci ,G2, Div of Surgery & Interventional Sci ,G2, Div of Surgery & Interventional Sci ,G2, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Inst of Orthopaedics & Musculosk Sci ,HQ, Inst of Orthopaedics & Musculosk Sci ,HQ, Div of Surgery & Interventional Sci ,G2, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6," Inst of Sport, Exercise & Hlth",HT," Inst of Sport, Exercise & Hlth",HT, Div of Surgery & Interventional Sci ,G2, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Research Department of Gen Surgery ,GS, Research Department of Gen Surgery ,GS, Div of Surgery & Interventional Sci ,G2, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Research Department of Urology ,RU, Research Department of Urology ,RU, Div of Surgery & Interventional Sci ,G2, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Eastman Dental Institute ,ID, Eastman Dental Institute ,ID, Eastman Dental Institute ,ID, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Biomaterials & Tissue Eng ,IDF, Biomaterials & Tissue Eng ,IDF, Eastman Dental Institute ,ID, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Clinical Research ,ID6, Clinical Research ,ID6, Eastman Dental Institute ,ID, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, EDI Continuing Professional Develop. ,IDK, EDI Continuing Professional Develop. ,IDK, Eastman Dental Institute ,ID, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, EDI Craniofacial & Development Sci ,ID7, EDI Craniofacial & Development Sci ,ID7, Eastman Dental Institute ,ID, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6," EDI MaxFac,Diagnostic,Med & Surg Sci",IDT," EDI MaxFac,Diagnostic,Med & Surg Sci",IDT, Eastman Dental Institute ,ID, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Microbial Diseases ,IDR, Microbial Diseases ,IDR, Eastman Dental Institute ,ID, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Restorative Dental Sciences ,ID8, Restorative Dental Sciences ,ID8, Eastman Dental Institute ,ID, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCL Medical School ,HAO, UCL Medical School ,HAO, UCL Medical School ,HAO, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Academic Centre of Medical Education ,HAOA, Academic Centre of Medical Education ,HAOA, UCL Medical School ,HAO, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Clinical and Professional Practice Unit ,HAU, Clinical and Professional Practice Unit ,HAU, UCL Medical School ,HAO, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Medical Student Administration ,HAH, Medical Student Administration ,HAH, UCL Medical School ,HAO, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Research Department of Open Learning ,HAOB, Research Department of Open Learning ,HAOB, UCL Medical School ,HAO, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Whittington Facilities & Gen Support ,HAP, Whittington Facilities & Gen Support ,HAP, UCL Medical School ,HAO, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Wolfson Inst & Cancer Inst Admin ,G4A, Wolfson Inst & Cancer Inst Admin ,G4A, Wolfson Inst & Cancer Inst Admin ,G4A, Faculty of Medical Sciences ,GHCSCI, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+4, Faculty of Pop Health Sciences ,FPHS, Faculty of Pop Health Sciences ,FPHS, Faculty of Pop Health Sciences ,FPHS, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Inst for Women's Health ,G5, Inst for Women's Health ,G5, Inst for Women's Health ,G5, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Maternal & Fetal Medicine ,GF, Maternal & Fetal Medicine ,GF, Inst for Women's Health ,G5, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Neonatology ,GN, Neonatology ,GN, Inst for Women's Health ,G5, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Reproductive Health ,GG, Reproductive Health ,GG, Inst for Women's Health ,G5, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Women's Cancer ,GT, Women's Cancer ,GT, Inst for Women's Health ,G5, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Inst of Clinical Trials &Methodology ,G10, Inst of Clinical Trials &Methodology ,G10, Inst of Clinical Trials &Methodology ,G10, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Comprehensive CTU at UCL ,G7E, Comprehensive CTU at UCL ,G7E, Inst of Clinical Trials &Methodology ,G10, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, MRC Clinical Trials Unit Supp Team ,G9A, MRC Clinical Trials Unit Supp Team ,G9A, Inst of Clinical Trials &Methodology ,G10, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, MRC Clinical Trials Unit at UCL ,G9, MRC Clinical Trials Unit at UCL ,G9, Inst of Clinical Trials &Methodology ,G10, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Institute for Global Health ,IGH, Institute for Global Health ,IGH, Institute for Global Health ,IGH, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Institute of Cardiovascular Science ,ICS, Institute of Cardiovascular Science ,ICS, Institute of Cardiovascular Science ,ICS, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Cardiometabolic Phenotyping Group ,ICS7, Cardiometabolic Phenotyping Group ,ICS7, Institute of Cardiovascular Science ,ICS, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Cardiovascular Surgery ,ICS4, Cardiovascular Surgery ,ICS4, Institute of Cardiovascular Science ,ICS, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Centre for Cardiology in the Young ,ICS1, Centre for Cardiology in the Young ,ICS1, Institute of Cardiovascular Science ,ICS, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Centre for Cardiovascular Genetics ,ICS3, Centre for Cardiovascular Genetics ,ICS3, Institute of Cardiovascular Science ,ICS, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Congenital Heart Disease ,ICS5, Congenital Heart Disease ,ICS5, Institute of Cardiovascular Science ,ICS, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, Cardiovascular Imaging Group ,ICS5A, Institute of Cardiovascular Science ,ICS, Institute of Cardiovascular Science ,ICS, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, Cardiovascular Prevention & Outcomes ,ICS5D, Institute of Cardiovascular Science ,ICS, Institute of Cardiovascular Science ,ICS, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, Education & Cardiovascular Morphology ,ICS5C, Institute of Cardiovascular Science ,ICS, Institute of Cardiovascular Science ,ICS, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, Vascular Physiology ,ICS5B, Institute of Cardiovascular Science ,ICS, Institute of Cardiovascular Science ,ICS, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Hatter Cardiovascular Institute ,ICS2, Hatter Cardiovascular Institute ,ICS2, Institute of Cardiovascular Science ,ICS, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, NICOR ,ICS6, NICOR ,ICS6, Institute of Cardiovascular Science ,ICS, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Institute of Child Health ,IC, Institute of Child Health ,IC, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Dept of Cancer ,IC2, Dept of Cancer ,IC2, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Dept of Cardiorespiratory Sciences ,IC3, Dept of Cardiorespiratory Sciences ,IC3, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Dept of Gen & Adolescent Paediatrics ,IC8, Dept of Gen & Adolescent Paediatrics ,IC8, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Ctr for Children's Palliative Care ,IC8B, Dept of Gen & Adolescent Paediatrics ,IC8, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6," Dept of Genes, Dev & Diseases",IC4," Dept of Genes, Dev & Diseases",IC4, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Medical Molecular Biology Unit ,IC4B," Dept of Genes, Dev & Diseases",IC4, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Dept of Infection & Immunity ,IC5, Dept of Infection & Immunity ,IC5, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Molecular Immunology Unit ,IC5C, Dept of Infection & Immunity ,IC5, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Rheumatology Unit ,IC5D, Dept of Infection & Immunity ,IC5, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Dept of Neurosciences & Mental Health ,IC6, Dept of Neurosciences & Mental Health ,IC6, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Behavioural & Brain Sciences ,IC6A, Dept of Neurosciences & Mental Health ,IC6, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Developmental Biology Unit ,IC6B, Dept of Neurosciences & Mental Health ,IC6, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Neural Development Unit ,IC6D, Dept of Neurosciences & Mental Health ,IC6, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Neurosciences Unit ,IC6G, Dept of Neurosciences & Mental Health ,IC6, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Dept of Population Health Sciences ,IC7, Dept of Population Health Sciences ,IC7, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Ctr for International Health & Dev ,IC7A, Dept of Population Health Sciences ,IC7, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, ICH - Clinical Epidemiology & Nutrition ,IC1B, ICH - Clinical Epidemiology & Nutrition ,IC1B, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, ICH - Education Administration Team ,ICGJ, ICH - Education Administration Team ,ICGJ, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, ICH - Events ,ICGA, ICH - Events ,ICGA, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, ICH - General Administration ,ICG, ICH - General Administration ,ICG, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Directors Office ,ICD, ICH - General Administration ,ICG, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Estates & Facilities Department ,ICGB, ICH - General Administration ,ICG, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Finance ,ICFA, ICH - General Administration ,ICG, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Information Systems Unit ,ICGE, ICH - General Administration ,ICG, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Library ,ICGF, ICH - General Administration ,ICG, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Medical Illustration ,ICGG, ICH - General Administration ,ICG, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Research & Development Department ,ICGD, ICH - General Administration ,ICG, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Research Grants ,ICFB, ICH - General Administration ,ICG, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, ICH - Human Resources ,ICGC, ICH - Human Resources ,ICGC, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, ICH - Laboratory Management ,ICGH, ICH - Laboratory Management ,ICGH, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, ICH Development Bio & Cancer Prog ,ICH2, ICH Development Bio & Cancer Prog ,ICH2, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Cancer ,IC2A, ICH Development Bio & Cancer Prog ,ICH2, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Dev Biology of Birth Defects ,IC4E, ICH Development Bio & Cancer Prog ,ICH2, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Stem Cells & Regenerative Medicine ,IC1C, ICH Development Bio & Cancer Prog ,ICH2, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, ICH Developmental Neurosciences Prog ,ICH5, ICH Developmental Neurosciences Prog ,ICH5, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Clinical Neurosciences ,IC6L, ICH Developmental Neurosciences Prog ,ICH5, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Cog Neuroscience & Neuropsychiatry ,IC6C, ICH Developmental Neurosciences Prog ,ICH5, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Molecular Neurosciences ,IC6K, ICH Developmental Neurosciences Prog ,ICH5, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Neuroimaging & neural networks ,IC6I, ICH Developmental Neurosciences Prog ,ICH5, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, ICH Genetics & Genomic Medicine Prog ,ICH1, ICH Genetics & Genomic Medicine Prog ,ICH1, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Centre for Translational Omics ,IC4F, ICH Genetics & Genomic Medicine Prog ,ICH1, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Experimental & Personalised Med ,IC4D, ICH Genetics & Genomic Medicine Prog ,ICH1, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Genetics & Epigen in Health & Dis ,IC4A, ICH Genetics & Genomic Medicine Prog ,ICH1, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6," ICH Infect, Imm, Infla. & Physio Med",ICH3," ICH Infect, Imm, Infla. & Physio Med",ICH3, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Immunobiology ,IC5A," ICH Infect, Imm, Infla. & Physio Med",ICH3, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7," ICH - Infection, Inflamm & Rheumatology",IC5B," ICH Infect, Imm, Infla. & Physio Med",ICH3, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Molecular & Cellular Immunology ,IC7C," ICH Infect, Imm, Infla. & Physio Med",ICH3, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Resp Critical Care & Anaesthesia ,IC3D," ICH Infect, Imm, Infla. & Physio Med",ICH3, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6," ICH Pop, Policy & Practice Prog",ICH4," ICH Pop, Policy & Practice Prog",ICH4, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Gen/Adol Paed Pall Care & Mnt Hlth ,IC8A," ICH Pop, Policy & Practice Prog",ICH4, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+7, ICH - Life Course & Statistics ,IC8C," ICH Pop, Policy & Practice Prog",ICH4, Institute of Child Health ,IC, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Institute of Epidemiology & Health ,G6, Institute of Epidemiology & Health ,G6, Institute of Epidemiology & Health ,G6, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Applied Health Research ,G6C, Applied Health Research ,G6C, Institute of Epidemiology & Health ,G6, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Epidemiology & Public Health ,GQ, Epidemiology & Public Health ,GQ, Institute of Epidemiology & Health ,G6, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Infection & Population Health ,G6A, Infection & Population Health ,G6A, Institute of Epidemiology & Health ,G6, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, MRC Unit for Lifelong Hlth & Ageing ,G6B, MRC Unit for Lifelong Hlth & Ageing ,G6B, Institute of Epidemiology & Health ,G6, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Primary Care & Population Health ,GZ, Primary Care & Population Health ,GZ, Institute of Epidemiology & Health ,G6, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Institute of Health Informatics ,HI, Institute of Health Informatics ,HI, Institute of Health Informatics ,HI, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, CHIME ,GJ, CHIME ,GJ, Institute of Health Informatics ,HI, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Clinical Epidemiology ,HIA, Clinical Epidemiology ,HIA, Institute of Health Informatics ,HI, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Infectious Disease Informatics ,HIB, Infectious Disease Informatics ,HIB, Institute of Health Informatics ,HI, Faculty of Pop Health Sciences ,FPHS, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+4, RF Facilities & General Support ,HAL, RF Facilities & General Support ,HAL, RF Facilities & General Support ,HAL, RF Facilities & General Support ,HAL, School of Life & Medical Sciences ,SLIMEDSC, Office of the President & Provost ,PROV, University College London ,UCL
+3, UCL BEAMS ,SCHSCI, UCL BEAMS ,SCHSCI, UCL BEAMS ,SCHSCI, UCL BEAMS ,SCHSCI, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+4, Faculty of Engineering Science ,ENG, Faculty of Engineering Science ,ENG, Faculty of Engineering Science ,ENG, Faculty of Engineering Science ,ENG, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Centre for Engineering Education ,EQ, Centre for Engineering Education ,EQ, Centre for Engineering Education ,EQ, Faculty of Engineering Science ,ENG, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Biochemical Engineering ,EG, Dept of Biochemical Engineering ,EG, Dept of Biochemical Engineering ,EG, Faculty of Engineering Science ,ENG, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Chemical Engineering ,EB, Dept of Chemical Engineering ,EB, Dept of Chemical Engineering ,EB, Faculty of Engineering Science ,ENG, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5," Dept of Civil, Environ &Geomatic Eng",EC," Dept of Civil, Environ &Geomatic Eng",EC," Dept of Civil, Environ &Geomatic Eng",EC, Faculty of Engineering Science ,ENG, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Computer Science ,EL, Dept of Computer Science ,EL, Dept of Computer Science ,EL, Faculty of Engineering Science ,ENG, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Electronic & Electrical Eng ,EE, Dept of Electronic & Electrical Eng ,EE, Dept of Electronic & Electrical Eng ,EE, Faculty of Engineering Science ,ENG, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Mechanical Engineering ,ED, Dept of Mechanical Engineering ,ED, Dept of Mechanical Engineering ,ED, Faculty of Engineering Science ,ENG, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Med Phys & Biomedical Eng ,EA, Dept of Med Phys & Biomedical Eng ,EA, Dept of Med Phys & Biomedical Eng ,EA, Faculty of Engineering Science ,ENG, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Security and Crime Science ,SJD, Dept of Security and Crime Science ,SJD, Dept of Security and Crime Science ,SJD, Faculty of Engineering Science ,ENG, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Engineering Science Faculty Office ,EO, Engineering Science Faculty Office ,EO, Engineering Science Faculty Office ,EO, Faculty of Engineering Science ,ENG, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Institute of Biomedical Engineering ,EN, Institute of Biomedical Engineering ,EN, Institute of Biomedical Engineering ,EN, Faculty of Engineering Science ,ENG, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, STEaPP ,EP, STEaPP ,EP, STEaPP ,EP, Faculty of Engineering Science ,ENG, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCL Australia ,ENGAU, UCL Australia ,ENGAU, UCL Australia ,ENGAU, Faculty of Engineering Science ,ENG, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCL School of Management ,EM, UCL School of Management ,EM, UCL School of Management ,EM, Faculty of Engineering Science ,ENG, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+4, Faculty of Maths & Physical Sciences ,MPS, Faculty of Maths & Physical Sciences ,MPS, Faculty of Maths & Physical Sciences ,MPS, Faculty of Maths & Physical Sciences ,MPS, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, CoMPLEX: Mat&Phys in Life Sci & Exp Bio ,MB, CoMPLEX: Mat&Phys in Life Sci & Exp Bio ,MB, CoMPLEX: Mat&Phys in Life Sci & Exp Bio ,MB, Faculty of Maths & Physical Sciences ,MPS, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Chemistry ,ME, Dept of Chemistry ,ME, Dept of Chemistry ,ME, Faculty of Maths & Physical Sciences ,MPS, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Earth Sciences ,MF, Dept of Earth Sciences ,MF, Dept of Earth Sciences ,MF, Faculty of Maths & Physical Sciences ,MPS, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Mathematics ,MI, Dept of Mathematics ,MI, Dept of Mathematics ,MI, Faculty of Maths & Physical Sciences ,MPS, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+6, Clinical Operational Research Unit ,MIA, Clinical Operational Research Unit ,MIA, Dept of Mathematics ,MI, Faculty of Maths & Physical Sciences ,MPS, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Physics & Astronomy ,MJ, Dept of Physics & Astronomy ,MJ, Dept of Physics & Astronomy ,MJ, Faculty of Maths & Physical Sciences ,MPS, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Science & Technology Studies ,MG, Dept of Science & Technology Studies ,MG, Dept of Science & Technology Studies ,MG, Faculty of Maths & Physical Sciences ,MPS, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Space & Climate Physics ,MV, Dept of Space & Climate Physics ,MV, Dept of Space & Climate Physics ,MV, Faculty of Maths & Physical Sciences ,MPS, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+6, Advanced Instrumentation Systems ,MA, Advanced Instrumentation Systems ,MA, Dept of Space & Climate Physics ,MV, Faculty of Maths & Physical Sciences ,MPS, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Statistical Science ,MN, Dept of Statistical Science ,MN, Dept of Statistical Science ,MN, Faculty of Maths & Physical Sciences ,MPS, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Inst for Risk & Disaster Reduction ,MFA, Inst for Risk & Disaster Reduction ,MFA, Inst for Risk & Disaster Reduction ,MFA, Faculty of Maths & Physical Sciences ,MPS, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, London Centre for Nanotechnology ,MW, London Centre for Nanotechnology ,MW, London Centre for Nanotechnology ,MW, Faculty of Maths & Physical Sciences ,MPS, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, MAPS Faculty Office ,MO, MAPS Faculty Office ,MO, MAPS Faculty Office ,MO, Faculty of Maths & Physical Sciences ,MPS, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+6, Institute for Materials Discovery ,MD, Institute for Materials Discovery ,MD, MAPS Faculty Office ,MO, Faculty of Maths & Physical Sciences ,MPS, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+4, Faculty of the Built Environment ,BEF, Faculty of the Built Environment ,BEF, Faculty of the Built Environment ,BEF, Faculty of the Built Environment ,BEF, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5," Bartlett School Env, Energy & Resources",BGA," Bartlett School Env, Energy & Resources",BGA," Bartlett School Env, Energy & Resources",BGA, Faculty of the Built Environment ,BEF, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Built Environment Faculty Office ,BO, Built Environment Faculty Office ,BO, Built Environment Faculty Office ,BO, Faculty of the Built Environment ,BEF, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Centre for Advanced Spatial Analysis ,SC, Centre for Advanced Spatial Analysis ,SC, Centre for Advanced Spatial Analysis ,SC, Faculty of the Built Environment ,BEF, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Development Planning Unit ,BD, Development Planning Unit ,BD, Development Planning Unit ,BD, Faculty of the Built Environment ,BEF, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, The Bartlett Sch of Const & Proj Mgt ,BC, The Bartlett Sch of Const & Proj Mgt ,BC, The Bartlett Sch of Const & Proj Mgt ,BC, Faculty of the Built Environment ,BEF, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, The Bartlett School of Architecture ,BA, The Bartlett School of Architecture ,BA, The Bartlett School of Architecture ,BA, Faculty of the Built Environment ,BEF, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, The Bartlett School of Planning ,BP, The Bartlett School of Planning ,BP, The Bartlett School of Planning ,BP, Faculty of the Built Environment ,BEF, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCL Institute for Global Prosperity ,BQ, UCL Institute for Global Prosperity ,BQ, UCL Institute for Global Prosperity ,BQ, Faculty of the Built Environment ,BEF, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+5, UrbanBuzz ,BE, UrbanBuzz ,BE, UrbanBuzz ,BE, Faculty of the Built Environment ,BEF, UCL BEAMS ,SCHSCI, Office of the President & Provost ,PROV, University College London ,UCL
+3, UCL Institute of Education ,IE, UCL Institute of Education ,IE, UCL Institute of Education ,IE, UCL Institute of Education ,IE, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+4, IOE - British Education Res Ass (BERA),IE2, IOE - British Education Res Ass (BERA),IE2, IOE - British Education Res Ass (BERA),IE2, IOE - British Education Res Ass (BERA),IE2, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+4, IOE - Student Union ,IE3, IOE - Student Union ,IE3, IOE - Student Union ,IE3, IOE - Student Union ,IE3, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+4, IOE Directorate ,IE1, IOE Directorate ,IE1, IOE Directorate ,IE1, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+5, IOE - Academic Development ,IEA, IOE - Academic Development ,IEA, IOE - Academic Development ,IEA, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6," IOE - Culture, Communication & Media",IEA1," IOE - Culture, Communication & Media",IEA1, IOE - Academic Development ,IEA, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6," IOE - Curriculum, Pedagogy & Assessment",IEA3," IOE - Curriculum, Pedagogy & Assessment",IEA3, IOE - Academic Development ,IEA, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6," IOE - Education, Practice & Society",IEA7," IOE - Education, Practice & Society",IEA7, IOE - Academic Development ,IEA, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6, IOE - Learning & Leadership ,IEA4, IOE - Learning & Leadership ,IEA4, IOE - Academic Development ,IEA, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6, IOE - Psychology & Human Development ,IEA8, IOE - Psychology & Human Development ,IEA8, IOE - Academic Development ,IEA, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6, IOE - Social Science ,IEA9, IOE - Social Science ,IEA9, IOE - Academic Development ,IEA, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+5, IOE - International Office ,IEF, IOE - International Office ,IEF, IOE - International Office ,IEF, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+5, IOE - Policy & Public Affairs ,IEG, IOE - Policy & Public Affairs ,IEG, IOE - Policy & Public Affairs ,IEG, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+5, IOE - Research & Development ,IEB, IOE - Research & Development ,IEB, IOE - Research & Development ,IEB, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6," IOE - Business, Enterprise & Short crs",IEB2," IOE - Business, Enterprise & Short crs",IEB2, IOE - Research & Development ,IEB, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6," IOE - Dean, Doctoral School",IEB1," IOE - Dean, Doctoral School",IEB1, IOE - Research & Development ,IEB, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+5, IOE - Strategy & Organisation ,IEC, IOE - Strategy & Organisation ,IEC, IOE - Strategy & Organisation ,IEC, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6, IOE - Academic Administration ,IEC1, IOE - Academic Administration ,IEC1, IOE - Strategy & Organisation ,IEC, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6, IOE - Estates & Facilities ,IEC2, IOE - Estates & Facilities ,IEC2, IOE - Strategy & Organisation ,IEC, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6, IOE - External Relations ,IEC3, IOE - External Relations ,IEC3, IOE - Strategy & Organisation ,IEC, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6, IOE - Finance ,IEC4, IOE - Finance ,IEC4, IOE - Strategy & Organisation ,IEC, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+7," IOE - Residences, Catering & Conferences",IEC4A, IOE - Finance ,IEC4, IOE - Strategy & Organisation ,IEC, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6, IOE - Governance & Planning ,IEC5, IOE - Governance & Planning ,IEC5, IOE - Strategy & Organisation ,IEC, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6, IOE - Human Resources ,IEC6, IOE - Human Resources ,IEC6, IOE - Strategy & Organisation ,IEC, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6, IOE - Information Technology ,IEC7, IOE - Information Technology ,IEC7, IOE - Strategy & Organisation ,IEC, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6, IOE - Library ,IEC8, IOE - Library ,IEC8, IOE - Strategy & Organisation ,IEC, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6, IOE - Registry ,IEC9, IOE - Registry ,IEC9, IOE - Strategy & Organisation ,IEC, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6, IOE - Research & Consultancy Services ,IEC10, IOE - Research & Consultancy Services ,IEC10, IOE - Strategy & Organisation ,IEC, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+5," IOE - Teaching, Quality & Learning Innov",IED," IOE - Teaching, Quality & Learning Innov",IED," IOE - Teaching, Quality & Learning Innov",IED, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6, IOE - Academic Stnds & Qlty Enhncmnt Unt ,IED1, IOE - Academic Stnds & Qlty Enhncmnt Unt ,IED1," IOE - Teaching, Quality & Learning Innov",IED, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+6, IOE - Initial Teacher Education ,IED2, IOE - Initial Teacher Education ,IED2," IOE - Teaching, Quality & Learning Innov",IED, IOE Directorate ,IE1, UCL Institute of Education ,IE, Office of the President & Provost ,PROV, University College London ,UCL
+3, UCL SLASH ,SARSOSC, UCL SLASH ,SARSOSC, UCL SLASH ,SARSOSC, UCL SLASH ,SARSOSC, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+4, Faculty of Arts & Humanities ,ARTS, Faculty of Arts & Humanities ,ARTS, Faculty of Arts & Humanities ,ARTS, Faculty of Arts & Humanities ,ARTS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Arts and Sciences (BASc),ARB, Arts and Sciences (BASc),ARB, Arts and Sciences (BASc),ARB, Faculty of Arts & Humanities ,ARTS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, CMII ,AX, CMII ,AX, CMII ,AX, Faculty of Arts & Humanities ,ARTS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Centre for Editing Lives and Letters ,ARC, Centre for Editing Lives and Letters ,ARC, Centre for Editing Lives and Letters ,ARC, Faculty of Arts & Humanities ,ARTS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of English Lang & Literature ,AG, Dept of English Lang & Literature ,AG, Dept of English Lang & Literature ,AG, Faculty of Arts & Humanities ,ARTS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Survey of English Usage ,AGU, Survey of English Usage ,AGU, Dept of English Lang & Literature ,AG, Faculty of Arts & Humanities ,ARTS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Greek & Latin ,AM, Dept of Greek & Latin ,AM, Dept of Greek & Latin ,AM, Faculty of Arts & Humanities ,ARTS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Hebrew & Jewish Studies ,AN, Dept of Hebrew & Jewish Studies ,AN, Dept of Hebrew & Jewish Studies ,AN, Faculty of Arts & Humanities ,ARTS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Information Studies ,AS, Dept of Information Studies ,AS, Dept of Information Studies ,AS, Faculty of Arts & Humanities ,ARTS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Philosophy ,AT, Dept of Philosophy ,AT, Dept of Philosophy ,AT, Faculty of Arts & Humanities ,ARTS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, European Social & Political Studies ,AU, European Social & Political Studies ,AU, European Social & Political Studies ,AU, Faculty of Arts & Humanities ,ARTS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, SELCS ,AA, SELCS ,AA, SELCS ,AA, Faculty of Arts & Humanities ,ARTS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Translation Studies ,AAU, Translation Studies ,AAU, SELCS ,AA, Faculty of Arts & Humanities ,ARTS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, The Slade School of Fine Art ,AH, The Slade School of Fine Art ,AH, The Slade School of Fine Art ,AH, Faculty of Arts & Humanities ,ARTS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+4, Faculty of Laws ,DLAWS, Faculty of Laws ,DLAWS, Faculty of Laws ,DLAWS, Faculty of Laws ,DLAWS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, The Bentham Project ,SH, The Bentham Project ,SH, The Bentham Project ,SH, Faculty of Laws ,DLAWS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+4, Faculty of S&HS ,SHS, Faculty of S&HS ,SHS, Faculty of S&HS ,SHS, Faculty of S&HS ,SHS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Anthropology ,SB, Dept of Anthropology ,SB, Dept of Anthropology ,SB, Faculty of S&HS ,SHS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Economics ,SE, Dept of Economics ,SE, Dept of Economics ,SE, Faculty of S&HS ,SHS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Geography ,SK, Dept of Geography ,SK, Dept of Geography ,SK, Faculty of S&HS ,SHS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of History ,SO, Dept of History ,SO, Dept of History ,SO, Faculty of S&HS ,SHS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of History of Art ,SP, Dept of History of Art ,SP, Dept of History of Art ,SP, Faculty of S&HS ,SHS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Dept of Political Science ,ST, Dept of Political Science ,ST, Dept of Political Science ,ST, Faculty of S&HS ,SHS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Institute of Archaeology ,SW, Institute of Archaeology ,SW, Institute of Archaeology ,SW, Faculty of S&HS ,SHS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Institute of Archaeology ASE ,SWB, Institute of Archaeology ASE ,SWB, Institute of Archaeology ,SW, Faculty of S&HS ,SHS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+6, Institute of Archaeology Gordon Square ,SWA, Institute of Archaeology Gordon Square ,SWA, Institute of Archaeology ,SW, Faculty of S&HS ,SHS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Institute of the Americas ,SM, Institute of the Americas ,SM, Institute of the Americas ,SM, Faculty of S&HS ,SHS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, SHS Faculty Office ,SA, SHS Faculty Office ,SA, SHS Faculty Office ,SA, Faculty of S&HS ,SHS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, Social & Economic Global Env ,SEA, Social & Economic Global Env ,SEA, Social & Economic Global Env ,SEA, Faculty of S&HS ,SHS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCL Institute for Advanced Studies ,SD, UCL Institute for Advanced Studies ,SD, UCL Institute for Advanced Studies ,SD, Faculty of S&HS ,SHS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+4, SSEES ,VS, SSEES ,VS, SSEES ,VS, SSEES ,VS, UCL SLASH ,SARSOSC, Office of the President & Provost ,PROV, University College London ,UCL
+3, VP: Academic Development and London ,VPD, VP: Academic Development and London ,VPD, VP: Academic Development and London ,VPD, VP: Academic Development and London ,VPD, VP: Academic Development and London ,VPD, Office of the President & Provost ,PROV, University College London ,UCL
+3, VP: Education ,VPED, VP: Education ,VPED, VP: Education ,VPED, VP: Education ,VPED, VP: Education ,VPED, Office of the President & Provost ,PROV, University College London ,UCL
+4, Cen for Adv of Learning & Teaching ,JA, Cen for Adv of Learning & Teaching ,JA, Cen for Adv of Learning & Teaching ,JA, Cen for Adv of Learning & Teaching ,JA, VP: Education ,VPED, Office of the President & Provost ,PROV, University College London ,UCL
+4, Dean of Students (Academic),TWA, Dean of Students (Academic),TWA, Dean of Students (Academic),TWA, Dean of Students (Academic),TWA, VP: Education ,VPED, Office of the President & Provost ,PROV, University College London ,UCL
+4, Life Learning ,LL, Life Learning ,LL, Life Learning ,LL, Life Learning ,LL, VP: Education ,VPED, Office of the President & Provost ,PROV, University College London ,UCL
+3, VP: Enterprise ,VPE, VP: Enterprise ,VPE, VP: Enterprise ,VPE, VP: Enterprise ,VPE, VP: Enterprise ,VPE, Office of the President & Provost ,PROV, University College London ,UCL
+4, Knowledge Transfer ,VPEK, Knowledge Transfer ,VPEK, Knowledge Transfer ,VPEK, Knowledge Transfer ,VPEK, VP: Enterprise ,VPE, Office of the President & Provost ,PROV, University College London ,UCL
+5, Stanmore Implants Worldwide ,XS, Stanmore Implants Worldwide ,XS, Stanmore Implants Worldwide ,XS, Knowledge Transfer ,VPEK, VP: Enterprise ,VPE, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCL BioMedica plc ,XB, UCL BioMedica plc ,XB, UCL BioMedica plc ,XB, Knowledge Transfer ,VPEK, VP: Enterprise ,VPE, Office of the President & Provost ,PROV, University College London ,UCL
+6, PolyMASC plc ,XBA, PolyMASC plc ,XBA, UCL BioMedica plc ,XB, Knowledge Transfer ,VPEK, VP: Enterprise ,VPE, Office of the President & Provost ,PROV, University College London ,UCL
+5, UCL Business PLC ,VB, UCL Business PLC ,VB, UCL Business PLC ,VB, Knowledge Transfer ,VPEK, VP: Enterprise ,VPE, Office of the President & Provost ,PROV, University College London ,UCL
+4, UCL Advances - Ctr for Entrepreneurship ,EK, UCL Advances - Ctr for Entrepreneurship ,EK, UCL Advances - Ctr for Entrepreneurship ,EK, UCL Advances - Ctr for Entrepreneurship ,EK, VP: Enterprise ,VPE, Office of the President & Provost ,PROV, University College London ,UCL
+3, VP: Health ,HA, VP: Health ,HA, VP: Health ,HA, VP: Health ,HA, VP: Health ,HA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Academic Careers Office ,HAQ, Academic Careers Office ,HAQ, Academic Careers Office ,HAQ, Academic Careers Office ,HAQ, VP: Health ,HA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Clinical Research Support Centre ,G7, Clinical Research Support Centre ,G7, Clinical Research Support Centre ,G7, Clinical Research Support Centre ,G7, VP: Health ,HA, Office of the President & Provost ,PROV, University College London ,UCL
+5, Joint Research Office ,G7A, Joint Research Office ,G7A, Joint Research Office ,G7A, Clinical Research Support Centre ,G7, VP: Health ,HA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Platform Technologies ,G7C, Platform Technologies ,G7C, Platform Technologies ,G7C, Platform Technologies ,G7C, VP: Health ,HA, Office of the President & Provost ,PROV, University College London ,UCL
+4, SLMS Partnerships and Projects ,HAB, SLMS Partnerships and Projects ,HAB, SLMS Partnerships and Projects ,HAB, SLMS Partnerships and Projects ,HAB, VP: Health ,HA, Office of the President & Provost ,PROV, University College London ,UCL
+4, SLMS Research Coordination ,G7B, SLMS Research Coordination ,G7B, SLMS Research Coordination ,G7B, SLMS Research Coordination ,G7B, VP: Health ,HA, Office of the President & Provost ,PROV, University College London ,UCL
+4, Translational Research Office ,G7D, Translational Research Office ,G7D, Translational Research Office ,G7D, Translational Research Office ,G7D, VP: Health ,HA, Office of the President & Provost ,PROV, University College London ,UCL
+3, VP: International ,VPI, VP: International ,VPI, VP: International ,VPI, VP: International ,VPI, VP: International ,VPI, Office of the President & Provost ,PROV, University College London ,UCL
+4, Centre for Languages & Intl Educatn ,AR, Centre for Languages & Intl Educatn ,AR, Centre for Languages & Intl Educatn ,AR, Centre for Languages & Intl Educatn ,AR, VP: International ,VPI, Office of the President & Provost ,PROV, University College London ,UCL
+5, Centre for Prep Studies - Astana ,ARA, Centre for Prep Studies - Astana ,ARA, Centre for Prep Studies - Astana ,ARA, Centre for Languages & Intl Educatn ,AR, VP: International ,VPI, Office of the President & Provost ,PROV, University College London ,UCL
+5, UG International Summer School ,ARD, UG International Summer School ,ARD, UG International Summer School ,ARD, Centre for Languages & Intl Educatn ,AR, VP: International ,VPI, Office of the President & Provost ,PROV, University College London ,UCL
+4, UCL - Qatar ,QA, UCL - Qatar ,QA, UCL - Qatar ,QA, UCL - Qatar ,QA, VP: International ,VPI, Office of the President & Provost ,PROV, University College London ,UCL
+4, UCL-NU School of Eng Partnership ,NU, UCL-NU School of Eng Partnership ,NU, UCL-NU School of Eng Partnership ,NU, UCL-NU School of Eng Partnership ,NU, VP: International ,VPI, Office of the President & Provost ,PROV, University College London ,UCL
+3, VP: Research ,VPR, VP: Research ,VPR, VP: Research ,VPR, VP: Research ,VPR, VP: Research ,VPR, Office of the President & Provost ,PROV, University College London ,UCL
+4, Doctoral School ,PH, Doctoral School ,PH, Doctoral School ,PH, Doctoral School ,PH, VP: Research ,VPR, Office of the President & Provost ,PROV, University College London ,UCL

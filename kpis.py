@@ -170,8 +170,8 @@ def get_faculty(dept):
     with open(orgchart, 'rb') as f:
         reader = csv.reader(f, delimiter=',')
         for row in reader:
-            if dept == row[0]:
-                return row[6]
+            if dept == row[1]:
+                return row[7]
     return "Faculty not found"
 
 
