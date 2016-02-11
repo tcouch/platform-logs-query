@@ -55,3 +55,5 @@ Temporary Items
 
 secrets
 userdata.pkl
+userdata.pkl.bak
+rcops.py
