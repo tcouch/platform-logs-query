@@ -1,11 +1,10 @@
-import Tkinter
-import tkMessageBox
+from tkinter import *
 import datetime as dt
 import statsFactory as sf
 
-class MainMenu(Tkinter.Tk):
+class MainMenu(Tk):
     def __init__(self,parent):
-        Tkinter.Tk.__init__(self,parent)
+        Tk.__init__(self,parent)
         self.parent = parent
         self.initialize()
 
@@ -17,18 +16,18 @@ class MainMenu(Tkinter.Tk):
         self.initializeDateSection()
 
         #node type selection
-        nodeSelectLabel = Tkinter.Label(self,
-                                        text="Node type:",
-                                        fg="white",
-                                        bg="blue",
-                                        width="12",
-                                        anchor="e").grid(column=0,row=4)
-        self.nodeVar = Tkinter.StringVar()
+        nodeSelectLabel = Label(self,
+                                text="Node type:",
+                                fg="white",
+                                bg="blue",
+                                width="12",
+                                anchor="e").grid(column=0,row=4)
+        self.nodeVar = StringVar()
         self.nodeVar.set('all')
         nodeList = list(sf.nodeDict.keys())
         nodeList.sort()
         nodeList.insert(0,"all")
-        self.nodeSelector = Tkinter.OptionMenu(self, self.nodeVar, *nodeList)
+        self.nodeSelector = OptionMenu(self, self.nodeVar, *nodeList)
         self.nodeSelector.grid(row=4,column=1)
 
 
@@ -36,78 +35,78 @@ class MainMenu(Tkinter.Tk):
         self.stats={}
         rowCount = 5
         for statistic in sf.Statistic.__subclasses__():
-            self.stats[statistic.__name__] = Tkinter.IntVar()
-            Tkinter.Checkbutton(self,text=statistic.__name__,
-                                variable=self.stats[statistic.__name__]) \
+            self.stats[statistic.__name__] = IntVar()
+            Checkbutton(self,text=statistic.__name__,
+                        variable=self.stats[statistic.__name__]) \
                 .grid(column=0,row=rowCount,sticky="W")
             rowCount += 1
 
         #Add OK button
-        self.OK = Tkinter.Button(self, text="OK", command=self.OnOKClick) \
+        self.OK = Button(self, text="OK", command=self.OnOKClick) \
                   .grid(column=0,row=rowCount)
 
     def initializePlatformSelector(self):
         #platform selector
-        platformSelectLabel = Tkinter.Label(self,
-                                        text="Platform:",
-                                        fg="white",
-                                        bg="blue",
-                                        width="12",
-                                        anchor="e").grid(column=0,row=0)
-        self.platformVar = Tkinter.StringVar()
+        platformSelectLabel = Label(self,
+                                    text="Platform:",
+                                    fg="white",
+                                    bg="blue",
+                                    width="12",
+                                    anchor="e").grid(column=0,row=0)
+        self.platformVar = StringVar()
         self.platformVar.set('Legion')
         platformList = list(sf.platform2database.keys())
-        self.platformSelector = Tkinter.OptionMenu(self, self.platformVar, *platformList)
+        self.platformSelector = OptionMenu(self, self.platformVar, *platformList)
         self.platformSelector.grid(row=0,column=1)
 
     def initializeDateSection(self):
         #Top labels
-        self.MonthLabel = Tkinter.Label(self,
-                                        text="Month (MM)",
-                                        width="10")
+        self.MonthLabel = Label(self,
+                                text="Month (MM)",
+                                width="10")
         self.MonthLabel.grid(column=1,row=1)
 
-        self.YearLabel = Tkinter.Label(self,
-                                        text="Year (YYYY)",
-                                        width="10")
+        self.YearLabel = Label(self,
+                               text="Year (YYYY)",
+                               width="10")
         self.YearLabel.grid(column=2,row=1)
 
 
         #Start date bits
-        self.startDateLabel = Tkinter.Label(self,
-                                       text="Start Month:",
-                                       fg="white",
-                                       bg="blue",
-                                       width="12",
-                                       anchor="e")
+        self.startDateLabel = Label(self,
+                                    text="Start Month:",
+                                    fg="white",
+                                    bg="blue",
+                                    width="12",
+                                    anchor="e")
         self.startDateLabel.grid(column=0,row=2)
 
-        self.startMonth = Tkinter.StringVar()
-        self.startMonthEntry = Tkinter.Entry(
+        self.startMonth = StringVar()
+        self.startMonthEntry = Entry(
             self,textvariable=self.startMonth,width="2")
         self.startMonthEntry.grid(column=1,row=2)
 
-        self.startYear = Tkinter.StringVar()
-        self.startYearEntry = Tkinter.Entry(
+        self.startYear = StringVar()
+        self.startYearEntry = Entry(
             self,textvariable=self.startYear,width="4")
         self.startYearEntry.grid(column=2,row=2)
 
         #End date bits
-        self.endDateLabel = Tkinter.Label(self,
-                                       text="End Month:",
-                                       fg="white",
-                                       bg="blue",
-                                       width="12",
-                                       anchor="e")
+        self.endDateLabel = Label(self,
+                                  text="End Month:",
+                                  fg="white",
+                                  bg="blue",
+                                  width="12",
+                                  anchor="e")
         self.endDateLabel.grid(column=0,row=3)
 
-        self.endMonth = Tkinter.StringVar()
-        self.endMonthEntry = Tkinter.Entry(
+        self.endMonth = StringVar()
+        self.endMonthEntry = Entry(
             self,textvariable=self.endMonth,width="2")
         self.endMonthEntry.grid(column=1,row=3)
 
-        self.endYear = Tkinter.StringVar()
-        self.endYearEntry = Tkinter.Entry(
+        self.endYear = StringVar()
+        self.endYearEntry = Entry(
             self,textvariable=self.endYear,width="4")
         self.endYearEntry.grid(column=2,row=3)
         
@@ -154,16 +153,16 @@ class MainMenu(Tkinter.Tk):
         try:
             month = int(month)
         except ValueError:
-            tkMessageBox.showerror("Input error!",
+            messagebox.showerror("Input error!",
                     "You must enter an integer value.")
             valid = False
         if month < 1 or month > 12:
-            tkMessageBox.showerror("Input error!",
+            messagebox.showerror("Input error!",
                     "You must enter a value from 1 to 12.")
             valid = False
         if valid == False:
             widget.focus_set()
-            widget.selection_range(0, Tkinter.END)
+            widget.selection_range(0, END)
         return valid
 
     def validateYear(self,widget,year):
@@ -171,27 +170,27 @@ class MainMenu(Tkinter.Tk):
         try:
             year = int(year)
         except ValueError:
-            tkMessageBox.showerror("Input error!",
+            messagebox.showerror("Input error!",
                     "You must enter an integer value")
             valid = False
         if year < 2011 or year > 2050:
-            tkMessageBox.showerror("Input error!",
+            messagebox.showerror("Input error!",
                     "You must enter a value from 2011 to 2050.")
             valid = False
         if valid == False:
             widget.focus_set()
-            widget.selection_range(0, Tkinter.END)
+            widget.selection_range(0, END)
         return valid
 
     def validateDates(self):
         startDate = self.startYear.get() + self.startMonth.get()
         endDate = self.endYear.get() + self.endMonth.get()
         if startDate > endDate:
-            tkMessageBox.showerror("Input error!",
+            messagebox.showerror("Input error!",
                     "The start date must be earlier than or" \
                     +" equal to the end date.")
             self.startMonthEntry.focus_set()
-            self.startMonthEntry.selection_range(0, Tkinter.END)
+            self.startMonthEntry.selection_range(0, END)
             return False
         else:
             return True
@@ -216,22 +215,22 @@ def getRequestedStats(**kwargs):
 def printStats(collection):
     tempCollection = collection
     for month in tempCollection:
-        print "Start Date: %s" % (month["Start Date"])
+        print("Start Date: {}".format(month["Start Date"]))
         del month["Start Date"]
-        print "End Date: %s" % (month["End Date"])
+        print("End Date: {}".format(month["End Date"]))
         del month["End Date"]
-        print "Node Type: %s" % (month["Node Type"])
+        print("Node Type: {}".format(month["Node Type"]))
         del month["Node Type"]
         for key in sorted(month):
-            print "{0}: {1}".format(key,month[key])
+            print("{0}: {1}".format(key,month[key]))
     return 0
 
 def flatten(statsDict):
     toDelete = []
     toAdd = {}
-    for key, value in statsDict.iteritems():
+    for key, value in statsDict.items():
         if type(value) is dict:
-            for k, v in value.iteritems():
+            for k, v in value.items():
                 toAdd["{0}-{1}".format(key, k)] = v
             toDelete.append(key)
     for key in toDelete:
@@ -252,7 +251,7 @@ def getMonthIntervals(startDate, endDate):
 
 def add_months(sourcedate,months):
     month = sourcedate.month - 1 + months
-    year = sourcedate.year + month / 12
+    year = sourcedate.year + month // 12
     month = month % 12 + 1
     day = 1
     return dt.datetime(year,month,day)

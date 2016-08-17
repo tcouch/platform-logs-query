@@ -55,10 +55,10 @@ class Statistic(object):
 
 class ServiceAvailability(Statistic):
     def constructQuery(self):
-        queryString = "select (100 - 100*(count(distinct epochtime)*300)" \
-            + "/({1}-{0})) as result" \
+        queryString = "select (count(distinct epochtime)*300)" \
+            + "/({1}-{0})*100 as result" \
             + " from {db}.core_count" \
-            + " where cores = 0 and epochtime > {0}" \
+            + " where cores > 0 and epochtime > {0}" \
             + " and epochtime < {1};"
         queryString = queryString.format(self.startEpoch,self.endEpoch,db=self.db)
         return queryString
@@ -67,7 +67,7 @@ class CoreAvailability(Statistic):
     def constructQuery(self):
         queryString = "select avg(cores/total)*100 as result" \
             + " from {db}.core_count" \
-            + " where epochtime > {0} and epochtime < {1};"
+            + " where cores > 0 and epochtime > {0} and epochtime < {1};"
         queryString = queryString.format(self.startEpoch,self.endEpoch,db=self.db)
         return queryString
         
@@ -199,14 +199,14 @@ def main():
 
 ##    sys.stdout = oldstdout
 
-    print f.__self__.__class__.__name__, ":", f()
-    print g.__self__.__class__.__name__, ":", g()
-    print h.__self__.__class__.__name__, ":", h()
-    print i.__self__.__class__.__name__, ":", i()
-    print j.__self__.__class__.__name__, ":"
+    print(f.__self__.__class__.__name__, ":", f())
+    print(g.__self__.__class__.__name__, ":", g())
+    print(h.__self__.__class__.__name__, ":", h())
+    print(i.__self__.__class__.__name__, ":", i())
+    print(j.__self__.__class__.__name__, ":")
     slowdown = j()
     for key, value in slowdown.iteritems():
-        print "\t{0}: {1}".format(key, value)
+        print("\t{0}: {1}").format(key, value)
 
 if __name__ =="__main__":
     main()

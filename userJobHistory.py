@@ -8,6 +8,7 @@ import datetime as dt
 
 class jobHistory(object):
 
+
     def __init__(self,*args,**kwargs):
 
         self.startDate = kwargs["startDate"]
@@ -41,7 +42,8 @@ class jobHistory(object):
         self.ldap_con=LDAPCon()
 
         self.query = self.constructQuery()
-        
+
+
     def constructQuery(self):
         queryString = "select owner, ((end_time - start_time)*cost)/3600 as core_hours" \
                 + " from {db}.accounting" \
@@ -61,9 +63,10 @@ class jobHistory(object):
                 queryString = queryString + " and owner != '%s'" % (rcops[user])
         #Finish query
         queryString = queryString + " ; "
-        queryString = queryString.format(self.startEpoch,self.endEpoch,db=self.db)
-        print queryString
+        queryString = queryString.format(self.startEpoch, self.endEpoch, db=self.db)
+        print(queryString)
         return queryString
+
 
     def processResult(self):
         """generate list of dictionaries containing unique userids
@@ -106,23 +109,25 @@ class jobHistory(object):
                                     'department':dept,
                                     'faculty':faculty})
                 users.append(job['owner'])
-                with open('userdata.pkl','wb') as ldapDataFile:
+                with open('userdata.pkl', 'wb') as ldapDataFile:
                     pickle.dump(ldapData,ldapDataFile)
             else:
                 filter(lambda x: x['userid'] == job['owner'], userSummary)[0]['core_hours'] += job['core_hours']
         return userSummary
 
+
     def printResults(self):
         userSummary = self.processResult()
-        print "Platform: {platform}".format(platform=self.platform)
-        print "From: {0} to {1}".format(self.startDate,self.endDate)
-        print "UserID \t Given Name \t Surname \t Department \t Core Hours"
+        print("Platform: {platform}".format(platform=self.platform))
+        print("From: {0} to {1}".format(self.startDate,self.endDate))
+        print("UserID \t Given Name \t Surname \t Department \t Core Hours")
         for user in userSummary:
             dataRow = "{0} \t {1} \t {2} \t {3} \t {4}"
-            print dataRow.format(user["userid"],user["given name"],
-                                 user["surname"],user["department"],user["core_hours"])
-        print "Done"
-        
+            print(dataRow.format(user["userid"], user["given name"],
+                                 user["surname"], user["department"], user["core_hours"]))
+        print("Done")
+
+
     def makeResultsCSV(self):
         userSummary = self.processResult()
         keys = ['userid', 'surname', 'given name', 'department', 'faculty', 'core_hours']
@@ -131,7 +136,8 @@ class jobHistory(object):
         dict_writer = csv.DictWriter(f, keys)
         dict_writer.writer.writerow(keys)
         dict_writer.writerows(userSummary)
-        
+
+
     def get_faculty(self,dept):
     #lookup faculty in orgchart file using department
         orgchart = "orgchart.csv"
@@ -142,11 +148,10 @@ class jobHistory(object):
                     return row[7]
         return "Faculty not found"
         
-        
 
 def main():
-    startDate = dt.datetime(2015,11,1)
-    endDate = dt.datetime(2015,12,1)    
+    startDate = dt.datetime(2016,7,1)
+    endDate = dt.datetime(2016,8,1)    
 
     kwargs = {
         "startDate": startDate,
