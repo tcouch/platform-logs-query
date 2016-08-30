@@ -1,5 +1,6 @@
 from logsConnector import logsConnection as logs
-from ldapquery import LDAPCon
+from ldap_lookup import Connection as ldapConnection
+from ldap_lookup import Query as ldapQuery
 from rcops import rcops
 from platform2database import platform2database
 import pickle, csv
@@ -39,7 +40,7 @@ class jobHistory(object):
         self.dbConnection = logs()
 
         #prepare ldap connection for user information query
-        self.ldap_con=LDAPCon()
+        self.ldapConn = ldapConnection()
 
         self.query = self.constructQuery()
 
@@ -52,8 +53,10 @@ class jobHistory(object):
 		+ " and end_time > start_time"
         #add list of users to search for if present
         if self.usernames:
+            queryString += " and ("
             for username in self.usernames:
-                queryString = queryString + " and owner = '%s'" % (username)
+                queryString = queryString + " owner = '%s' or" % (username)
+            queryString = queryString[:-2] + ")" #remove last or and add closing bracket
         #if no users specified just exclude course accounts and rcops
         else:
             #remove training course accounts
@@ -73,35 +76,16 @@ class jobHistory(object):
         and sum of core hours used by running through joblist. Then query
         ldap to find name, department etc."""
         jobList = self.dbConnection.query(self.query)
+        fields = ['department', 'sn', 'givenName']
         userSummary = list()
         users = list()  #list used to check whether user has been added yet
         for job in jobList:
-            if not job['owner'] in users:
-                with open('userdata.pkl','rb') as ldapDataFile:
-                    ldapData = pickle.load(ldapDataFile)
-                if filter(lambda ldapUserData: ldapUserData['userid'] == job['owner'], ldapData):
-                    ldapcreds = filter(lambda ldapUserData: ldapUserData['userid'] == job['owner'], ldapData)[0]
-                    dept = ldapcreds['department']
-                    faculty = ldapcreds['faculty']
-                    sn = ldapcreds['surname']
-                    givenName = ldapcreds['given name']
-                else:
-                    ldapcreds = self.ldap_con.query_user(job['owner'])
-                    try:
-                        dept = ''.join(ldapcreds[0][-1].get('department','Department not found'))
-                        sn = ''.join(ldapcreds[0][-1].get('sn','Surname not found'))
-                        givenName = ''.join(ldapcreds[0][-1].get('givenName','given name not found'))
-                        faculty = self.get_faculty(dept)
-                    except:
-                        sn = "Not Found"
-                        dept = "Not Found"
-                        givenName = "Not Found"
-                        faculty = "Not Found"
-                    ldapData.append({'userid':job['owner'],
-                                     'department':dept,
-                                     'faculty':faculty,
-                                     'surname':sn,
-                                     'given name':givenName})
+            if job['owner'] not in users:
+                ldapcreds = ldapQuery(job['owner'], self.ldapConn, fields).get_result()
+                dept = ldapcreds.get('department','Department not found')
+                sn = ldapcreds.get('sn','Surname not found')
+                givenName = ldapcreds.get('givenName','given name not found')
+                faculty = self.get_faculty(dept)
                 userSummary.append({'userid':job['owner'],
                                     'core_hours':job['core_hours'],
                                     'surname':sn,
@@ -109,10 +93,9 @@ class jobHistory(object):
                                     'department':dept,
                                     'faculty':faculty})
                 users.append(job['owner'])
-                with open('userdata.pkl', 'wb') as ldapDataFile:
-                    pickle.dump(ldapData,ldapDataFile)
             else:
-                filter(lambda x: x['userid'] == job['owner'], userSummary)[0]['core_hours'] += job['core_hours']
+                for user in userSummary:
+                    if user['userid'] == job['owner']: user['core_hours'] += job['core_hours']
         return userSummary
 
 
@@ -132,7 +115,7 @@ class jobHistory(object):
         userSummary = self.processResult()
         keys = ['userid', 'surname', 'given name', 'department', 'faculty', 'core_hours']
         filename = "activeUsers_%s_%s_%s.csv" % (self.platform,self.startDate.strftime('%d%m%Y'), self.endDate.strftime('%d%m%Y'))
-        f = open(filename, 'wb')
+        f = open(filename, 'w')
         dict_writer = csv.DictWriter(f, keys)
         dict_writer.writer.writerow(keys)
         dict_writer.writerows(userSummary)
@@ -141,7 +124,7 @@ class jobHistory(object):
     def get_faculty(self,dept):
     #lookup faculty in orgchart file using department
         orgchart = "orgchart.csv"
-        with open(orgchart, 'rb') as f:
+        with open(orgchart, 'r') as f:
             reader = csv.reader(f, delimiter=',')
             for row in reader:
                 if dept == row[1]:
@@ -150,14 +133,14 @@ class jobHistory(object):
         
 
 def main():
-    startDate = dt.datetime(2016,7,1)
-    endDate = dt.datetime(2016,8,1)    
+    startDate = dt.datetime(2016,8,1)
+    endDate = dt.datetime(2016,9,1)    
 
     kwargs = {
         "startDate": startDate,
         "endDate": endDate,
 #        "platform": "Grace",
-#        "usernames": ["cceatco"]
+#        "usernames": ["cceaxxx"]
         }
 
     jobHistory(**kwargs).makeResultsCSV()
