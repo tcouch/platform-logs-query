@@ -1,8 +1,11 @@
+#!/usr/bin/env python3
+
 from logsConnector import logsConnection as logs
 from ldap_lookup import Connection as ldapConnection
 from ldap_lookup import Query as ldapQuery
 from rcops import rcops
 from platform2database import platform2database
+from sys import argv
 import pickle, csv
 import datetime as dt
 
@@ -134,17 +137,21 @@ class jobHistory(object):
 
 def main():
     startDate = dt.datetime(2016,8,1)
-    endDate = dt.datetime(2016,9,1)    
+    endDate = dt.datetime(2016,9,1)
+    
+    # Rudimentary method for submitting a comma separated list of usernames
+    if len(argv) > 1:
+        usernames = argv[1].split(",")
 
     kwargs = {
         "startDate": startDate,
         "endDate": endDate,
 #        "platform": "Grace",
-#        "usernames": ["cceaxxx"]
+#        "usernames": ["uclxxxx"]
         }
+    if usernames: kwargs["usernames"] = usernames
 
     jobHistory(**kwargs).makeResultsCSV()
-
         
 if __name__ =="__main__":
     main()
