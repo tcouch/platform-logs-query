@@ -5,9 +5,9 @@ from ldap_lookup import Connection as ldapConnection
 from ldap_lookup import Query as ldapQuery
 from rcops import rcops
 from platform2database import platform2database
-from sys import argv
 import pickle, csv
 import datetime as dt
+import argparse
 
 
 class jobHistory(object):
@@ -136,20 +136,53 @@ class jobHistory(object):
         
 
 def main():
-    startDate = dt.datetime(2016,8,1)
-    endDate = dt.datetime(2016,9,1)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-u","--usernames", 
+                        help="Comma separated list of usernames to search for")
+    parser.add_argument("-p","--platform", 
+                        help="Specify which platform's logs to query")
+    parser.add_argument("-s","--startdate", 
+                        help="Specify start date for query ddmmyyyy")
+    parser.add_argument("-e","--enddate", 
+                        help="Specify end date for query ddmmyyyy")
     
-    # Rudimentary method for submitting a comma separated list of usernames
-    if len(argv) > 1:
-        usernames = argv[1].split(",")
-
+    args = parser.parse_args()
+    
+    if args.usernames:
+        usernames = args.usernames.split(",")
+    else: usernames = None
+    if args.platform:
+        platform = args.platform
+    else: platform = None
+    if args.startdate:
+        startDate = dt.datetime.strptime(args.startdate,"%d%m%Y")
+    else: startDate = None
+    if args.enddate:
+        endDate = dt.datetime.strptime(args.enddate,"%d%m%Y")    
+    else: endDate = None
+    if not startDate:
+        #If neither date is specified do last month
+        if not endDate:
+            e = dt.date.today().replace(day=1) - dt.timedelta(days=1)
+            s = e.replace(day=1)
+            #convert date to datetime
+            endDate = dt.datetime(e.year,e.month,e.day)
+            startDate = dt.datetime(s.year,s.month,s.day)
+        #If endDate and no start as start of that month
+        else:
+            startDate = endDate.replace(day=1)
+    if not endDate:
+    #If start but no end specified go until today
+        e = dt.date.today()
+        endDate = dt.datetime(e.year,e.month,e.day)
+    
+   
     kwargs = {
         "startDate": startDate,
         "endDate": endDate,
-#        "platform": "Grace",
-#        "usernames": ["uclxxxx"]
         }
     if usernames: kwargs["usernames"] = usernames
+    if platform: kwargs["platform"] = platform
 
     jobHistory(**kwargs).makeResultsCSV()
         
