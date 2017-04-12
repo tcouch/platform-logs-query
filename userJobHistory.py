@@ -161,18 +161,10 @@ def main():
         endDate = dt.datetime.strptime(args.enddate,"%d%m%Y")    
     else: endDate = None
     if not startDate:
-        #If neither date is specified do last month
-        if not endDate:
-            e = dt.date.today().replace(day=1) - dt.timedelta(days=1)
-            s = e.replace(day=1)
-            #convert date to datetime
-            endDate = dt.datetime(e.year,e.month,e.day)
-            startDate = dt.datetime(s.year,s.month,s.day)
-        #If endDate and no start as start of that month
-        else:
-            startDate = endDate.replace(day=1)
+        #Use first day of 2016
+        startDate = dt.datetime.strptime("01012016","%d%m%Y")
     if not endDate:
-    #If start but no end specified go until today
+        #Use today
         e = dt.date.today()
         endDate = dt.datetime(e.year,e.month,e.day)
     
