@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from logsConnector import logsConnection as logs
-from ldap_lookup import Connection as ldapConnection
+from ldap_lookup import LDAPConnection
 from ldap_lookup import Query as ldapQuery
 from rcops import rcops
 from platform2database import platform2database
@@ -43,7 +43,7 @@ class jobHistory(object):
         self.dbConnection = logs()
 
         #prepare ldap connection for user information query
-        self.ldapConn = ldapConnection()
+        self.LDAPConn = LDAPConnection()
 
         self.query = self.constructQuery()
 
@@ -84,7 +84,7 @@ class jobHistory(object):
         users = list()  #list used to check whether user has been added yet
         for job in jobList:
             if job['owner'] not in users:
-                ldapcreds = ldapQuery(job['owner'], self.ldapConn, fields).get_result()
+                ldapcreds = ldapQuery(job['owner'], self.LDAPConn, fields).get_result()
                 dept = ldapcreds.get('department','Department not found')
                 sn = ldapcreds.get('sn','Surname not found')
                 givenName = ldapcreds.get('givenName','given name not found')
